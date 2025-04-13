@@ -1,39 +1,27 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
-    <channel>
-        <title>Yub’s Hardcore History</title>
-        <link>https://www.google.com/</link>
-        <image>
-            <url>https://yt3.googleusercontent.com/L3mp2AOya1O26vEkh7RgJF9PKJztL5PBdHX_gTGd2rEDKvF52cL5eo087E7s_l-irRX4AMluuw=s900-c-k-c0x00ffffff-no-rj</url>
-            <title>Yub’s Hardcore History</title>
-            <link>https://www.example.com</link>
-        </image>
-        <description>
-            For the dawgssss
-        </description>
-        <language>en-us</language>
-        <copyright>Yubeezy T</copyright>
-        <lastBuildDate>Fri, 13 Apr 2025 06:00:00 PDT</lastBuildDate>
-        <itunes:author>Yubeezy T</itunes:author>
-        <itunes:summary>
-            For the dawgssss
-        </itunes:summary>
-        <itunes:subtitle>For the dawgssss</itunes:subtitle>
-        <itunes:owner>
-            <itunes:name>Yubeezy T</itunes:name>
-            <itunes:email>hitek.techie@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:keywords>
-            comma,separated,key,words
-        </itunes:keywords>
-        <itunes:image href="https://yt3.googleusercontent.com/L3mp2AOya1O26vEkh7RgJF9PKJztL5PBdHX_gTGd2rEDKvF52cL5eo087E7s_l-irRX4AMluuw=s900-c-k-c0x00ffffff-no-rj"/>
-        <rawvoice:rating>TV-G</rawvoice:rating>
-        <rawvoice:location>Planet Earth</rawvoice:location>
-        <rawvoice:frequency>Monthly</rawvoice:frequency>
-        <itunes:category text=“History”/>
-        <pubDate>Fri, 13 Apr 2025 06:00:00 PDT</pubDate>
-        <item>
-            ...
-        </item>
-    </channel>
-</rs
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Yub's Hardcore History</title>
+    <link>https://github.com/your-username/your-repo-name</link>
+    <language>en-us</language>
+    <itunes:author>Yubeezy T</itunes:author>
+    <description>For the Dawgs</description>
+    <itunes:summary>For the Dawgs</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="History"/>
+    <itunes:image href="https://yt3.googleusercontent.com/L3mp2AOya1O26vEkh7RgJF9PKJztL5PBdHX_gTGd2rEDKvF52cL5eo087E7s_l-irRX4AMluuw=s900-c-k-c0x00ffffff-no-rj"/>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>Alexander vs Hitler</title>
+      <description>Alexander vs Hitler</description>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1yiOEsD4h6BDnescvmtABhzx6-bXJ10-3" type="audio/mpeg"/>
+      <guid>episode1</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- Add more <item> blocks here for other episodes -->
+
+  </channel>
+</rss>
