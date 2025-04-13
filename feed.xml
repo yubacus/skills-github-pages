@@ -18,7 +18,7 @@
     <atom:link href="https://google.com" rel="self" type="application/rss+xml"/>
 
     <item>
-  <title>Alexander vs Hitler</title>
+  <title>1 - Alexander vs Hitler</title>
   <link>https://google.com/episode1</link>
   <description>Alexander vs Hitler</description>
   <guid>https://google.com/episode1</guid>
@@ -29,7 +29,7 @@
 </item>
 
 <item>
-  <title>Guns and Horses</title>
+  <title>2 - Guns and Horses</title>
   <link>https://google.com/episode2</link>
   <description>Guns and Horses</description>
   <guid>https://google.com/episode2</guid>
@@ -40,7 +40,7 @@
 </item>
 
 <item>
-  <title>The Organization of Peace (1920-1946 CE)</title>
+  <title>3 - The Organization of Peace (1920-1946 CE)</title>
   <link>https://google.com/episode3</link>
   <description>The Organization of Peace (1920-1946 CE)</description>
   <guid>https://google.com/episode3</guid>
@@ -51,7 +51,7 @@
 </item>
 
 <item>
-  <title>Romancing the Tribes (52 BCE-1813 CE)</title>
+  <title>4 - Romancing the Tribes (52 BCE-1813 CE)</title>
   <link>https://google.com/episode4</link>
   <description>Romancing the Tribes (52 BCE-1813 CE)</description>
   <guid>https://google.com/episode4</guid>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-  <title>Meandering Through the Cold War (1950s-1960s CE)</title>
+  <title>5 - Meandering Through the Cold War (1950s-1960s CE)</title>
   <link>https://google.com/episode5</link>
   <description>Meandering Through the Cold War (1950s-1960s CE)</description>
   <guid>https://google.com/episode5</guid>
@@ -74,7 +74,7 @@
 
     
 <item>
-  <title>Shield of the West (559-479 BCE)</title>
+  <title>6 - Shield of the West (559-479 BCE)</title>
   <link>https://google.com/episode6</link>
   <description>Shield of the West (559-479 BCE)</description>
   <guid>https://google.com/episode6</guid>
@@ -85,7 +85,7 @@
 </item>
 
 <item>
-  <title>X-History Files</title>
+  <title>7 - X-History Files</title>
   <link>https://google.com/episode7</link>
   <description>X-History Files</description>
   <guid>https://google.com/episode7</guid>
@@ -96,7 +96,7 @@
 </item>
 
 <item>
-  <title>Scars of the Great War</title>
+  <title>8 - Scars of the Great War</title>
   <link>https://google.com/episode8</link>
   <description>Scars of the Great War</description>
   <guid>https://google.com/episode8</guid>
@@ -107,7 +107,7 @@
 </item>
 
 <item>
-  <title>Darkness Buries the Bronze Age (1620s-1200s BCE)</title>
+  <title>9 - Darkness Buries the Bronze Age (1620s-1200s BCE)</title>
   <link>https://google.com/episode9</link>
   <description>Darkness Buries the Bronze Age (1620s-1200s BCE)</description>
   <guid>https://google.com/episode9</guid>
@@ -118,7 +118,7 @@
 </item>
 
 <item>
-  <title>The What ifs of 1066 (1066 CE)</title>
+  <title>10 - The What ifs of 1066 (1066 CE)</title>
   <link>https://google.com/episode10</link>
   <description>The What ifs of 1066 (1066 CE)</description>
   <guid>https://google.com/episode10</guid>
@@ -129,7 +129,7 @@
 </item>
     
 <item>
-  <title>Thoughts on Churchill (1874-1965 CE)</title>
+  <title>11 - Thoughts on Churchill (1874-1965 CE)</title>
   <link>https://google.com/episode11</link>
   <description>Thoughts on Churchill (1874-1965 CE)</description>
   <guid>https://google.com/episode11</guid>
@@ -140,7 +140,7 @@
 </item>
 
 <item>
-  <title>Steppe Stories</title>
+  <title>12 - Steppe Stories</title>
   <link>https://google.com/episode12</link>
   <description>Steppe Stories</description>
   <guid>https://google.com/episode12</guid>
@@ -151,7 +151,7 @@
 </item>
 
 <item>
-  <title>Bubonic Nukes (1340-1353 CE)</title>
+  <title>13 - Bubonic Nukes (1340-1353 CE)</title>
   <link>https://google.com/episode13</link>
   <description>Bubonic Nukes (1340-1353 CE)</description>
   <guid>https://google.com/episode13</guid>
@@ -162,7 +162,7 @@
 </item>
 
 <item>
-  <title>Macedonian Soap Opera (323-309 BCE)</title>
+  <title>14 - Macedonian Soap Opera (323-309 BCE)</title>
   <link>https://google.com/episode14</link>
   <description>Macedonian Soap Opera (323-309 BCE)</description>
   <guid>https://google.com/episode14</guid>
@@ -173,7 +173,7 @@
 </item>
 
 <item>
-  <title>Desperate Times (1928-1929 CE)</title>
+  <title>15 - Desperate Times (1928-1929 CE)</title>
   <link>https://google.com/episode15</link>
   <description>Desperate Times (1928-1929 CE)</description>
   <guid>https://google.com/episode15</guid>
@@ -184,7 +184,7 @@
 </item>
     
 <item>
-  <title>Nazi Tidbits</title>
+  <title>16 - Nazi Tidbits</title>
   <link>https://google.com/episode16</link>
   <description>Nazi Tidbits</description>
   <guid>https://google.com/episode16</guid>
@@ -195,7 +195,7 @@
 </item>
 
 <item>
-  <title>Judgment at Nineveh (883-612 BCE)</title>
+  <title>17 - Judgment at Nineveh (883-612 BCE)</title>
   <link>https://google.com/episode17</link>
   <description>Judgment at Nineveh (883-612 BCE)</description>
   <guid>https://google.com/episode17</guid>
@@ -206,7 +206,7 @@
 </item>
 
 <item>
-  <title>A Fly on James Burkes Wall</title>
+  <title>18 - A Fly on James Burkes Wall</title>
   <link>https://google.com/episode18</link>
   <description>A Fly on James Burkes Wall</description>
   <guid>https://google.com/episode18</guid>
@@ -217,7 +217,7 @@
 </item>
 
 <item>
-  <title>Apache Tears (1870s CE)</title>
+  <title>19 - Apache Tears (1870s CE)</title>
   <link>https://google.com/episode19</link>
   <description>Apache Tears (1870s CE)</description>
   <guid>https://google.com/episode19</guid>
@@ -228,7 +228,7 @@
 </item>
 
 <item>
-  <title>History Under the Influence</title>
+  <title>20 - History Under the Influence</title>
   <link>https://google.com/episode20</link>
   <description>History Under the Influence</description>
   <guid>https://google.com/episode20</guid>
@@ -239,7 +239,7 @@
 </item>
 
 <item>
-  <title>Punic Nightmares I (288-218 BCE)</title>
+  <title>21 - Punic Nightmares I (288-218 BCE)</title>
   <link>https://google.com/episode21</link>
   <description>Punic Nightmares I (288-218 BCE)</description>
   <guid>https://google.com/episode21</guid>
@@ -250,7 +250,7 @@
 </item>
 
 <item>
-  <title>Punic Nightmares II (218-216 BCE)</title>
+  <title>22 - Punic Nightmares II (218-216 BCE)</title>
   <link>https://google.com/episode22</link>
   <description>Punic Nightmares II (218-216 BCE)</description>
   <guid>https://google.com/episode22</guid>
@@ -261,7 +261,7 @@
 </item>
 
 <item>
-  <title>Punic Nightmares III (216-146 BCE)</title>
+  <title>23 - Punic Nightmares III (216-146 BCE)</title>
   <link>https://google.com/episode23</link>
   <description>Punic Nightmares III (216-146 BCE)</description>
   <guid>https://google.com/episode23</guid>
@@ -272,7 +272,7 @@
 </item>
 
 <item>
-  <title>Classical Hanson</title>
+  <title>24 - Classical Hanson</title>
   <link>https://google.com/episode24</link>
   <description>Classical Hanson</description>
   <guid>https://google.com/episode24</guid>
@@ -283,7 +283,7 @@
 </item>
 
 <item>
-  <title>Dyer Outlook</title>
+  <title>25 - Dyer Outlook</title>
   <link>https://google.com/episode25</link>
   <description>Dyer Outlook</description>
   <guid>https://google.com/episode25</guid>
@@ -294,7 +294,7 @@
 </item>
 
 <item>
-  <title>Addicted to Bondage</title>
+  <title>26 - Addicted to Bondage</title>
   <link>https://google.com/episode26</link>
   <description>Addicted to Bondage</description>
   <guid>https://google.com/episode26</guid>
@@ -305,7 +305,7 @@
 </item>
 
 <item>
-  <title>Ghosts of the Ostfront I (1940-1941 CE)</title>
+  <title>27 - Ghosts of the Ostfront I (1940-1941 CE)</title>
   <link>https://google.com/episode27</link>
   <description>Ghosts of the Ostfront I (1940-1941 CE)</description>
   <guid>https://google.com/episode27</guid>
@@ -316,7 +316,7 @@
 </item>
 
 <item>
-  <title>Ghosts of the Ostfront II (1941-1942 CE)</title>
+  <title>28 - Ghosts of the Ostfront II (1941-1942 CE)</title>
   <link>https://google.com/episode28</link>
   <description>Ghosts of the Ostfront II (1941-1942 CE)</description>
   <guid>https://google.com/episode28</guid>
@@ -327,7 +327,7 @@
 </item>
 
 <item>
-  <title>Ghosts of the Ostfront III (1942-1943 CE)</title>
+  <title>29 - Ghosts of the Ostfront III (1942-1943 CE)</title>
   <link>https://google.com/episode29</link>
   <description>Ghosts of the Ostfront III (1942-1943 CE)</description>
   <guid>https://google.com/episode29</guid>
@@ -338,7 +338,7 @@
 </item>
 
 <item>
-  <title>Ghosts of the Ostfront IV (1943-1945 CE)</title>
+  <title>30 - Ghosts of the Ostfront IV (1943-1945 CE)</title>
   <link>https://google.com/episode30</link>
   <description>Ghosts of the Ostfront IV (1943-1945 CE)</description>
   <guid>https://google.com/episode30</guid>
@@ -349,7 +349,7 @@
 </item>
 
 <item>
-  <title>Suffer the Children</title>
+  <title>31 - Suffer the Children</title>
   <link>https://google.com/episode31</link>
   <description>Suffer the Children</description>
   <guid>https://google.com/episode31</guid>
@@ -360,7 +360,7 @@
 </item>
 
 <item>
-  <title>Globalization Unto Death (1519-1522 CE)</title>
+  <title>32 - Globalization Unto Death (1519-1522 CE)</title>
   <link>https://google.com/episode32</link>
   <description>Globalization Unto Death (1519-1522 CE)</description>
   <guid>https://google.com/episode32</guid>
@@ -371,7 +371,7 @@
 </item>
 
 <item>
-  <title>Old School Toughness</title>
+  <title>33 - Old School Toughness</title>
   <link>https://google.com/episode33</link>
   <description>Old School Toughness</description>
   <guid>https://google.com/episode33</guid>
@@ -382,7 +382,7 @@
 </item>
 
 <item>
-  <title>Death Throes of the Republic I (149-121 BCE)</title>
+  <title>34 - Death Throes of the Republic I (149-121 BCE)</title>
   <link>https://google.com/episode34</link>
   <description>Death Throes of the Republic I (149-121 BCE)</description>
   <guid>https://google.com/episode34</guid>
@@ -393,7 +393,7 @@
 </item>
 
 <item>
-  <title>Death Throes of the Republic II (121-100 BCE)</title>
+  <title>35 - Death Throes of the Republic II (121-100 BCE)</title>
   <link>https://google.com/episode35</link>
   <description>Death Throes of the Republic II (121-100 BCE)</description>
   <guid>https://google.com/episode35</guid>
@@ -404,7 +404,7 @@
 </item>
 
 <item>
-  <title>Death Throes of the Republic III (91-86 BCE)</title>
+  <title>36 - Death Throes of the Republic III (91-86 BCE)</title>
   <link>https://google.com/episode36</link>
   <description>Death Throes of the Republic III (91-86 BCE)</description>
   <guid>https://google.com/episode36</guid>
@@ -415,7 +415,7 @@
 </item>
 
 <item>
-  <title>Death Throes of the Republic IV (86-78 BCE)</title>
+  <title>37 - Death Throes of the Republic IV (86-78 BCE)</title>
   <link>https://google.com/episode37</link>
   <description>Death Throes of the Republic IV (86-78 BCE)</description>
   <guid>https://google.com/episode37</guid>
@@ -426,7 +426,7 @@
 </item>
 
 <item>
-  <title>Death Throes of the Republic V (71-62 BCE)</title>
+  <title>38 - Death Throes of the Republic V (71-62 BCE)</title>
   <link>https://google.com/episode38</link>
   <description>Death Throes of the Republic V (71-62 BCE)</description>
   <guid>https://google.com/episode38</guid>
@@ -437,7 +437,7 @@
 </item>
 
 <item>
-  <title>Death Throes of the Republic VI (62-44 BCE)</title>
+  <title>39 - Death Throes of the Republic VI (62-44 BCE)</title>
   <link>https://google.com/episode39</link>
   <description>Death Throes of the Republic VI (62-44 BCE)</description>
   <guid>https://google.com/episode39</guid>
@@ -448,7 +448,7 @@
 </item>
 
 <item>
-  <title>Radical Thoughts (1950s CE)</title>
+  <title>40 - Radical Thoughts (1950s CE)</title>
   <link>https://google.com/episode40</link>
   <description>Radical Thoughts (1950s CE)</description>
   <guid>https://google.com/episode40</guid>
@@ -459,7 +459,7 @@
 </item>
 
 <item>
-  <title>Thors Angels I (400s-800s CE)</title>
+  <title>41 - Thors Angels I (400s-800s CE)</title>
   <link>https://google.com/episode41</link>
   <description>Thors Angels I (400s-800s CE)</description>
   <guid>https://google.com/episode41</guid>
@@ -470,7 +470,7 @@
 </item>
 
 <item>
-  <title>Logical Insanity I (1945 CE)</title>
+  <title>42 - Logical Insanity I (1945 CE)</title>
   <link>https://google.com/episode42</link>
   <description>Logical Insanity I (1945 CE)</description>
   <guid>https://google.com/episode42</guid>
@@ -481,7 +481,7 @@
 </item>
 
 <item>
-  <title>Wrath of the Khans I (1162-1211 CE)</title>
+  <title>43 - Wrath of the Khans I (1162-1211 CE)</title>
   <link>https://google.com/episode43</link>
   <description>Wrath of the Khans I (1162-1211 CE)</description>
   <guid>https://google.com/episode43</guid>
@@ -492,7 +492,7 @@
 </item>
 
 <item>
-  <title>Wrath of the Khans II (1215-1221 CE)</title>
+  <title>44 - Wrath of the Khans II (1215-1221 CE)</title>
   <link>https://google.com/episode44</link>
   <description>Wrath of the Khans II (1215-1221 CE)</description>
   <guid>https://google.com/episode44</guid>
@@ -503,7 +503,7 @@
 </item>
 
 <item>
-  <title>Wrath of the Khans III (1221-1227 CE)</title>
+  <title>45 - Wrath of the Khans III (1221-1227 CE)</title>
   <link>https://google.com/episode45</link>
   <description>Wrath of the Khans III (1221-1227 CE)</description>
   <guid>https://google.com/episode45</guid>
@@ -514,7 +514,7 @@
 </item>
 
 <item>
-  <title>Wrath of the Khans IV (1227-1242 CE)</title>
+  <title>46 - Wrath of the Khans IV (1227-1242 CE)</title>
   <link>https://google.com/episode46</link>
   <description>Wrath of the Khans IV (1227-1242 CE)</description>
   <guid>https://google.com/episode46</guid>
@@ -525,7 +525,7 @@
 </item>
 
 <item>
-  <title>Wrath of the Khans V (1242-1294 CE)</title>
+  <title>47 - Wrath of the Khans V (1242-1294 CE)</title>
   <link>https://google.com/episode47</link>
   <description>Wrath of the Khans V (1242-1294 CE)</description>
   <guid>https://google.com/episode47</guid>
@@ -536,7 +536,7 @@
 </item>
 
 <item>
-  <title>Prophets of Doom (1530-1536 CE)</title>
+  <title>48 - Prophets of Doom (1530-1536 CE)</title>
   <link>https://google.com/episode48</link>
   <description>Prophets of Doom (1530-1536 CE)</description>
   <guid>https://google.com/episode48</guid>
@@ -547,7 +547,7 @@
 </item>
 
 <item>
-  <title>American Peril (1897-1898 CE)</title>
+  <title>49 - American Peril (1897-1898 CE)</title>
   <link>https://google.com/episode49</link>
   <description>American Peril (1897-1898 CE)</description>
   <guid>https://google.com/episode49</guid>
@@ -558,7 +558,7 @@
 </item>
 
 <item>
-  <title>Blueprint for Armageddon I (1914 CE)</title>
+  <title>50 - Blueprint for Armageddon I (1914 CE)</title>
   <link>https://google.com/episode50</link>
   <description>Blueprint for Armageddon I (1914 CE)</description>
   <guid>https://google.com/episode50</guid>
@@ -569,7 +569,7 @@
 </item>
 
 <item>
-  <title>Blueprint for Armageddon II (1914 CE)</title>
+  <title>51 - Blueprint for Armageddon II (1914 CE)</title>
   <link>https://google.com/episode51</link>
   <description>Blueprint for Armageddon II (1914 CE)</description>
   <guid>https://google.com/episode51</guid>
@@ -580,7 +580,7 @@
 </item>
 
 <item>
-  <title>Blueprint for Armageddon III (1914-1915 CE)</title>
+  <title>52 - Blueprint for Armageddon III (1914-1915 CE)</title>
   <link>https://google.com/episode52</link>
   <description>Blueprint for Armageddon III (1914-1915 CE)</description>
   <guid>https://google.com/episode52</guid>
@@ -591,7 +591,7 @@
 </item>
 
 <item>
-  <title>Blueprint for Armageddon IV (1915-1916 CE)</title>
+  <title>53 - Blueprint for Armageddon IV (1915-1916 CE)</title>
   <link>https://google.com/episode53</link>
   <description>Blueprint for Armageddon IV (1915-1916 CE)</description>
   <guid>https://google.com/episode53</guid>
@@ -602,7 +602,7 @@
 </item>
 
 <item>
-  <title>Blueprint for Armageddon V (1916-1917 CE)</title>
+  <title>54 - Blueprint for Armageddon V (1916-1917 CE)</title>
   <link>https://google.com/episode54</link>
   <description>Blueprint for Armageddon V (1916-1917 CE)</description>
   <guid>https://google.com/episode54</guid>
@@ -613,7 +613,7 @@
 </item>
 
 <item>
-  <title>Blueprint for Armageddon VI (1917-1918 CE)</title>
+  <title>55 - Blueprint for Armageddon VI (1917-1918 CE)</title>
   <link>https://google.com/episode55</link>
   <description>Blueprint for Armageddon VI (1917-1918 CE)</description>
   <guid>https://google.com/episode55</guid>
@@ -624,7 +624,7 @@
 </item>
 
 <item>
-  <title>Kings of Kings I (559-530 BCE)</title>
+  <title>56 - Kings of Kings I (559-530 BCE)</title>
   <link>https://google.com/episode56</link>
   <description>Kings of Kings I (559-530 BCE)</description>
   <guid>https://google.com/episode56</guid>
@@ -635,7 +635,7 @@
 </item>
 
 <item>
-  <title>Kings of Kings II (530-490 BCE)</title>
+  <title>57 - Kings of Kings II (530-490 BCE)</title>
   <link>https://google.com/episode57</link>
   <description>Kings of Kings II (530-490 BCE)</description>
   <guid>https://google.com/episode57</guid>
@@ -646,7 +646,7 @@
 </item>
 
 <item>
-  <title>Kings of Kings III (486-323 BCE)</title>
+  <title>58 - Kings of Kings III (486-323 BCE)</title>
   <link>https://google.com/episode58</link>
   <description>Kings of Kings III (486-323 BCE)</description>
   <guid>https://google.com/episode58</guid>
@@ -657,7 +657,7 @@
 </item>
 
 <item>
-  <title>The Destroyer of Worlds (1945-1962 CE)</title>
+  <title>59 - The Destroyer of Worlds (1945-1962 CE)</title>
   <link>https://google.com/episode59</link>
   <description>The Destroyer of Worlds (1945-1962 CE)</description>
   <guid>https://google.com/episode59</guid>
@@ -668,7 +668,7 @@
 </item>
 
 <item>
-  <title>The Celtic Holocaust</title>
+  <title>60 - The Celtic Holocaust</title>
   <link>https://google.com/episode60</link>
   <description>The Celtic Holocaust</description>
   <guid>https://google.com/episode60</guid>
@@ -679,7 +679,7 @@
 </item>
 
 <item>
-  <title>Painfotainment (80-1757 CE)</title>
+  <title>61 - Painfotainment (80-1757 CE)</title>
   <link>https://google.com/episode61</link>
   <description>Painfotainment (80-1757 CE)</description>
   <guid>https://google.com/episode61</guid>
@@ -690,7 +690,7 @@
 </item>
 
 <item>
-  <title>Supernova in the East I (1800s-1938 CE)</title>
+  <title>62 - Supernova in the East I (1800s-1938 CE)</title>
   <link>https://google.com/episode62</link>
   <description>Supernova in the East I (1800s-1938 CE)</description>
   <guid>https://google.com/episode62</guid>
@@ -701,7 +701,7 @@
 </item>
 
 <item>
-  <title>Supernova in the East II (1938-1941 CE)</title>
+  <title>63 - Supernova in the East II (1938-1941 CE)</title>
   <link>https://google.com/episode63</link>
   <description>Supernova in the East II (1938-1941 CE)</description>
   <guid>https://google.com/episode63</guid>
@@ -712,7 +712,7 @@
 </item>
 
 <item>
-  <title>Supernova in the East III (1941-1942 CE)</title>
+  <title>64 - Supernova in the East III (1941-1942 CE)</title>
   <link>https://google.com/episode64</link>
   <description>Supernova in the East III (1941-1942 CE)</description>
   <guid>https://google.com/episode64</guid>
@@ -723,7 +723,7 @@
 </item>
 
 <item>
-  <title>Supernova in the East IV</title>
+  <title>65 - Supernova in the East IV</title>
   <link>https://google.com/episode65</link>
   <description>Supernova in the East IV</description>
   <guid>https://google.com/episode65</guid>
@@ -734,7 +734,7 @@
 </item>
 
 <item>
-  <title>Supernova in the East V</title>
+  <title>66 - Supernova in the East V</title>
   <link>https://google.com/episode66</link>
   <description>Supernova in the East V</description>
   <guid>https://google.com/episode66</guid>
@@ -745,7 +745,7 @@
 </item>
 
 <item>
-  <title>Supernova in the East VI</title>
+  <title>67 - Supernova in the East VI</title>
   <link>https://google.com/episode67</link>
   <description>Supernova in the East VI</description>
   <guid>https://google.com/episode67</guid>
@@ -756,7 +756,7 @@
 </item>
 
 <item>
-  <title>Human Resources</title>
+  <title>68 - Human Resources</title>
   <link>https://google.com/episode68</link>
   <description>Human Resources</description>
   <guid>https://google.com/episode68</guid>
@@ -767,7 +767,7 @@
 </item>
 
 <item>
-  <title>Twilight of the Aesir</title>
+  <title>69 - Twilight of the Aesir</title>
   <link>https://google.com/episode69</link>
   <description>Twilight of the Aesir</description>
   <guid>https://google.com/episode69</guid>
@@ -778,7 +778,7 @@
 </item>
 
 <item>
-  <title>Twilight of The Aesir II</title>
+  <title>70 - Twilight of The Aesir II</title>
   <link>https://google.com/episode70</link>
   <description>Twilight of The Aesir II</description>
   <guid>https://google.com/episode70</guid>
@@ -789,7 +789,7 @@
 </item>
 
 <item>
-  <title>Mania for Subjugation</title>
+  <title>71 - Mania for Subjugation</title>
   <link>https://google.com/episode71</link>
   <description>Mania for Subjugation</description>
   <guid>https://google.com/episode71</guid>
@@ -800,7 +800,7 @@
 </item>
 
 <item>
-  <title>Mania for Subjugation II</title>
+  <title>72 - Mania for Subjugation II</title>
   <link>https://google.com/episode72</link>
   <description>Mania for Subjugation II</description>
   <guid>https://google.com/episode72</guid>
