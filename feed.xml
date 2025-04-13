@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yub's Hardcore History</title>
     <link>https://google.com</link>
@@ -9,18 +10,27 @@
     <itunes:author>Yubeezy T</itunes:author>
     <itunes:summary>For the dawgssss</itunes:summary>
     <itunes:category text="History"/>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>Yubeezy T</itunes:name>
       <itunes:email>hitek.techie@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1276516/14fa1cc83ca049669ae5fec55699e378/eyJoIjoxMDgwLCJ3IjoxMDgwfQ==/1.jpg?token-time=1745625600&amp;token-hash=dRRHqVUMFVRk7yzNUUAxvf82DmAbPzw_RrCyhtfcN0Q="/>
+    <itunes:image href="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1276516/14fa1cc83ca049669ae5fec55699e378/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/1.jpg?token-time=1745625600&amp;token-hash=dRRHqVUMFVRk7yzNUUAxvf82DmAbPzw_RrCyhtfcN0Q%3D"/>
+    <atom:link href="https://google.com" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>Alexander vs Hitler</title>
       <description>Alexander vs Hitler</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1yiOEsD4h6BDnescvmtABhzx6-bXJ10-3" length="0" type="audio/mpeg"/>
-      <guid>episode1</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yiOEsD4h6BDnescvmtABhzx6-bXJ10-3" length="0" type="audio/mpeg"/>
+      <guid>https://google.com/episode1</guid>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 -0800</pubDate>
+    </item>
+
+    <item>
+      <title>Guns and Horses</title>
+      <description>Guns and Horses</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jbtkwmf5Yt6TmDfjMyqcbE4OM2ndxkuN" length="0" type="audio/mpeg"/>
+      <guid>https://google.com/episode2</guid>
       <pubDate>Sun, 13 Apr 2025 00:00:00 -0800</pubDate>
     </item>
   </channel>
