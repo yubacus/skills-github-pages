@@ -15,9 +15,9 @@
 			<itunes:email>hitek.techie@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://raw.githubusercontent.com/avar/private-dan-carlin-hardcore-history-podcast-feed/master/static/DC_HH_iTunes_Gray_180.jpg"/>
-		<atom:link href="https://yubacus.github.io/skills-github-pages/feed.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://google.com" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>01%20-%20Alexander%20vs%20Hitler</title>
+			<title>Alexander vs Hitler</title>
 			<itunes:episode>1</itunes:episode>
 			<pubDate>Fri, 31 Jan 2025 00:00:00 PST</pubDate>
 			<description>Dan compares the way the modern world sees Adolf Hitler with the way history views Alexander the Great and wonders if the two men weren’t more alike than different.</description>
@@ -26,7 +26,7 @@
 			<enclosure length="50000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/01%20-%20Alexander%20vs%20Hitler.mp3"/>
 		</item>
 		<item>
-			<title>02%20-%20Guns%20and%20Horses</title>
+			<title>Guns and Horses</title>
 			<itunes:episode>2</itunes:episode>
 			<pubDate>Sat, 01 Feb 2025 00:00:00 PST</pubDate>
 			<description>The West is Mike Tyson and the East is Muhammad Ali in this episode as Dan mixes Art Bell with Hans Delbrück in this look at a possible reason for the military decline of the Near East.</description>
@@ -35,7 +35,7 @@
 			<enclosure length="50100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/02%20-%20Guns%20and%20Horses.mp3"/>
 		</item>
 		<item>
-			<title>03%20-%20The%20Organization%20of%20Peace%20%281920-1946%20CE%29</title>
+			<title>The Organization of Peace (1920-1946 CE)</title>
 			<itunes:episode>3</itunes:episode>
 			<pubDate>Sun, 02 Feb 2025 00:00:00 PST</pubDate>
 			<description>The early 20th century League of Nations stood for peace, cooperation, disarmament and international understanding. What happened?</description>
@@ -44,7 +44,7 @@
 			<enclosure length="50200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/03%20-%20The%20Organization%20of%20Peace%20%281920-1946%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>04%20-%20Romancing%20the%20Tribes%20%2852%20BCE-1813%20CE%29</title>
+			<title>Romancing the Tribes (52 BCE-1813 CE)</title>
 			<itunes:episode>4</itunes:episode>
 			<pubDate>Mon, 03 Feb 2025 00:00:00 PST</pubDate>
 			<description>From Caesar to Tecumseh, from the Goths to the Zulus — Dan touches on several stories of tribes in contact with civilizations and how we romanticize the struggle.</description>
@@ -53,7 +53,7 @@
 			<enclosure length="50300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/04%20-%20Romancing%20the%20Tribes%20%2852%20BCE-1813%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>05%20-%20Meandering%20Through%20the%20Cold%20War%20%281950s-1960s%20CE%29</title>
+			<title>Meandering Through the Cold War (1950s-1960s CE)</title>
 			<itunes:episode>5</itunes:episode>
 			<pubDate>Tue, 04 Feb 2025 00:00:00 PST</pubDate>
 			<description>The Cold War gets a rambling treatment as Dan looks at nukes, spies, brinkmanship, and the like. All the excitement of a Bond movie, but with the possibility of total annihilation!</description>
@@ -62,7 +62,7 @@
 			<enclosure length="50400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/05%20-%20Meandering%20Through%20the%20Cold%20War%20%281950s-1960s%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>06%20-%20Shield%20of%20the%20West%20%28559-479%20BCE%29</title>
+			<title>Shield of the West (559-479 BCE)</title>
 			<itunes:episode>6</itunes:episode>
 			<pubDate>Wed, 05 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan discusses how the West was shaped by the Greco-Persian conflict, and explores what the outcome meant for the direction of Western civilization.</description>
@@ -71,7 +71,7 @@
 			<enclosure length="50500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/06%20-%20Shield%20of%20the%20West%20%28559-479%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>07%20-%20X-History%20Files</title>
+			<title>X-History Files</title>
 			<itunes:episode>7</itunes:episode>
 			<pubDate>Thu, 06 Feb 2025 00:00:00 PST</pubDate>
 			<description>This is Dan’s “grab bag” show — an experimental episode covering odd topics, strange ideas, and unique historical curiosities that don’t fit anywhere else.</description>
@@ -80,7 +80,7 @@
 			<enclosure length="50600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/07%20-%20X-History%20Files.mp3"/>
 		</item>
 		<item>
-			<title>08%20-%20Scars%20of%20the%20Great%20War</title>
+			<title>Scars of the Great War</title>
 			<itunes:episode>8</itunes:episode>
 			<pubDate>Fri, 07 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan explores the psychological, societal, and cultural aftermath of World War I, arguing that its damage went far deeper than most wars before or since.</description>
@@ -89,7 +89,7 @@
 			<enclosure length="50700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/08%20-%20Scars%20of%20the%20Great%20War.mp3"/>
 		</item>
 		<item>
-			<title>09%20-%20Darkness%20Buries%20the%20Bronze%20Age%20%281620s-1200s%20BCE%29</title>
+			<title>Darkness Buries the Bronze Age (1620s-1200s BCE)</title>
 			<itunes:episode>9</itunes:episode>
 			<pubDate>Sat, 08 Feb 2025 00:00:00 PST</pubDate>
 			<description>What happens when civilizations collapse? Dan examines the mysterious and violent end of the Bronze Age — a tale of sea peoples, lost empires, and massive disruption.</description>
@@ -98,7 +98,7 @@
 			<enclosure length="50800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/09%20-%20Darkness%20Buries%20the%20Bronze%20Age%20%281620s-1200s%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>10%20-%20The%20What%20ifs%20of%201066%20%281066%20CE%29</title>
+			<title>The What ifs of 1066 (1066 CE)</title>
 			<itunes:episode>10</itunes:episode>
 			<pubDate>Sun, 09 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan goes deep on one of history’s most pivotal years — 1066 — and speculates how everything might have changed had the battles gone another way.</description>
@@ -107,7 +107,7 @@
 			<enclosure length="50900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/10%20-%20The%20What%20ifs%20of%201066%20%281066%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>11%20-%20Thoughts%20on%20Churchill%20%281874-1965%20CE%29</title>
+			<title>Thoughts on Churchill (1874-1965 CE)</title>
 			<itunes:episode>11</itunes:episode>
 			<pubDate>Mon, 10 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan offers reflections on Winston Churchill's legacy — from wartime leadership to political philosophy — and grapples with the complexity of one of history’s towering figures.</description>
@@ -116,7 +116,7 @@
 			<enclosure length="51000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/11%20-%20Thoughts%20on%20Churchill%20%281874-1965%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>12%20-%20Steppe%20Stories</title>
+			<title>Steppe Stories</title>
 			<itunes:episode>12</itunes:episode>
 			<pubDate>Tue, 11 Feb 2025 00:00:00 PST</pubDate>
 			<description>Nomadic tribes from the Eurasian Steppe — Scythians, Mongols, and others — take center stage as Dan explores their influence on settled civilizations and world history.</description>
@@ -125,7 +125,7 @@
 			<enclosure length="51100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/12%20-%20Steppe%20Stories.mp3"/>
 		</item>
 		<item>
-			<title>13%20-%20Bubonic%20Nukes%20%281340-1353%20CE%29</title>
+			<title>Bubonic Nukes (1340-1353 CE)</title>
 			<itunes:episode>13</itunes:episode>
 			<pubDate>Wed, 12 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan compares the Black Death with the idea of nuclear war, examining how both act as civilization-altering forces — one biological, one man-made.</description>
@@ -134,7 +134,7 @@
 			<enclosure length="51200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/13%20-%20Bubonic%20Nukes%20%281340-1353%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>14%20-%20Macedonian%20Soap%20Opera%20%28323-309%20BCE%29</title>
+			<title>Macedonian Soap Opera (323-309 BCE)</title>
 			<itunes:episode>14</itunes:episode>
 			<pubDate>Thu, 13 Feb 2025 00:00:00 PST</pubDate>
 			<description>A tale of ambition, betrayal, and power grabs: Dan recounts the chaotic power struggles following the death of Alexander the Great.</description>
@@ -143,7 +143,7 @@
 			<enclosure length="51300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/14%20-%20Macedonian%20Soap%20Opera%20%28323-309%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>15%20-%20Desperate%20Times%20%281928-1929%20CE%29</title>
+			<title>Desperate Times (1928-1929 CE)</title>
 			<itunes:episode>15</itunes:episode>
 			<pubDate>Fri, 14 Feb 2025 00:00:00 PST</pubDate>
 			<description>As the world teeters on the edge of the Great Depression, Dan explores the societal moods, warning signs, and fragile optimism of a world about to change forever.</description>
@@ -152,7 +152,7 @@
 			<enclosure length="51400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/15%20-%20Desperate%20Times%20%281928-1929%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>16%20-%20Nazi%20Tidbits</title>
+			<title>Nazi Tidbits</title>
 			<itunes:episode>16</itunes:episode>
 			<pubDate>Sat, 15 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan shares a series of unsettling, obscure, and strange stories related to Nazi Germany — showing just how bizarre and horrifying the regime could be beneath the surface.</description>
@@ -161,7 +161,7 @@
 			<enclosure length="51500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/16%20-%20Nazi%20Tidbits.mp3"/>
 		</item>
 		<item>
-			<title>17%20-%20Judgment%20at%20Nineveh%20%28883-612%20BCE%29</title>
+			<title>Judgment at Nineveh (883-612 BCE)</title>
 			<itunes:episode>17</itunes:episode>
 			<pubDate>Sun, 16 Feb 2025 00:00:00 PST</pubDate>
 			<description>The rise and brutal reign of the Assyrian Empire is explored, culminating in its spectacular fall — and the judgment of history on its legacy.</description>
@@ -170,7 +170,7 @@
 			<enclosure length="51600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/17%20-%20Judgment%20at%20Nineveh%20%28883-612%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>18%20-%20A%20Fly%20on%20James%20Burkes%20Wall</title>
+			<title>A Fly on James Burkes Wall</title>
 			<itunes:episode>18</itunes:episode>
 			<pubDate>Mon, 17 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan riffs on the ideas of science historian James Burke, connecting innovation, causality, and history in a wide-ranging, Burke-inspired journey.</description>
@@ -179,7 +179,7 @@
 			<enclosure length="51700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/18%20-%20A%20Fly%20on%20James%20Burkes%20Wall.mp3"/>
 		</item>
 		<item>
-			<title>19%20-%20Apache%20Tears%20%281870s%20CE%29</title>
+			<title>Apache Tears (1870s CE)</title>
 			<itunes:episode>19</itunes:episode>
 			<pubDate>Tue, 18 Feb 2025 00:00:00 PST</pubDate>
 			<description>A sobering look at the Apache Wars in the American Southwest, from the perspective of both the U.S. military and the indigenous resistance.</description>
@@ -188,7 +188,7 @@
 			<enclosure length="51800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/19%20-%20Apache%20Tears%20%281870s%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>20%20-%20History%20Under%20the%20Influence</title>
+			<title>History Under the Influence</title>
 			<itunes:episode>20</itunes:episode>
 			<pubDate>Wed, 19 Feb 2025 00:00:00 PST</pubDate>
 			<description>What happens when drugs, alcohol, and other substances shape history? Dan explores how altered states of mind have influenced world leaders, soldiers, and entire civilizations.</description>
@@ -197,7 +197,7 @@
 			<enclosure length="51900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/20%20-%20History%20Under%20the%20Influence.mp3"/>
 		</item>
 		<item>
-			<title>21%20-%20Punic%20Nightmares%20I%20%28288-218%20BCE%29</title>
+			<title>Punic Nightmares I (288-218 BCE)</title>
 			<itunes:episode>21</itunes:episode>
 			<pubDate>Thu, 20 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan begins his epic on the Punic Wars, focusing on the buildup to the legendary conflict between Rome and Carthage — a tale of rising powers, rivalry, and mistrust.</description>
@@ -206,7 +206,7 @@
 			<enclosure length="52000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/21%20-%20Punic%20Nightmares%20I%20%28288-218%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>22%20-%20Punic%20Nightmares%20II%20%28218-216%20BCE%29</title>
+			<title>Punic Nightmares II (218-216 BCE)</title>
 			<itunes:episode>22</itunes:episode>
 			<pubDate>Fri, 21 Feb 2025 00:00:00 PST</pubDate>
 			<description>Hannibal takes the stage. Dan covers one of history’s greatest military minds as he crosses the Alps and delivers crushing defeats to Rome at Trebia, Trasimene, and Cannae.</description>
@@ -215,7 +215,7 @@
 			<enclosure length="52100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/22%20-%20Punic%20Nightmares%20II%20%28218-216%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>23%20-%20Punic%20Nightmares%20III%20%28216-146%20BCE%29</title>
+			<title>Punic Nightmares III (216-146 BCE)</title>
 			<itunes:episode>23</itunes:episode>
 			<pubDate>Sat, 22 Feb 2025 00:00:00 PST</pubDate>
 			<description>Rome rebounds. Dan concludes the Punic trilogy with the Roman response to Hannibal and the brutal siege and destruction of Carthage — total war at its most unforgiving.</description>
@@ -224,7 +224,7 @@
 			<enclosure length="52200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/23%20-%20Punic%20Nightmares%20III%20%28216-146%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>24%20-%20Classical%20Hanson</title>
+			<title>Classical Hanson</title>
 			<itunes:episode>24</itunes:episode>
 			<pubDate>Sun, 23 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan interviews Victor Davis Hanson, classicist and military historian, about the nature of war in the ancient world, hoplite warfare, and Western military traditions.</description>
@@ -233,7 +233,7 @@
 			<enclosure length="52300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/24%20-%20Classical%20Hanson.mp3"/>
 		</item>
 		<item>
-			<title>25%20-%20Dyer%20Outlook</title>
+			<title>Dyer Outlook</title>
 			<itunes:episode>25</itunes:episode>
 			<pubDate>Mon, 24 Feb 2025 00:00:00 PST</pubDate>
 			<description>An interview episode featuring Gwynne Dyer, where Dan discusses war, geopolitics, nuclear threats, and how world events can spiral into conflict faster than we realize.</description>
@@ -242,7 +242,7 @@
 			<enclosure length="52400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/25%20-%20Dyer%20Outlook.mp3"/>
 		</item>
 		<item>
-			<title>26%20-%20Addicted%20to%20Bondage</title>
+			<title>Addicted to Bondage</title>
 			<itunes:episode>26</itunes:episode>
 			<pubDate>Tue, 25 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan explores the history of slavery — its scale, ubiquity, and brutality across cultures — and asks how such a system endured for so long around the globe.</description>
@@ -251,7 +251,7 @@
 			<enclosure length="52500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/26%20-%20Addicted%20to%20Bondage.mp3"/>
 		</item>
 		<item>
-			<title>27%20-%20Ghosts%20of%20the%20Ostfront%20I%20%281940-1941%20CE%29</title>
+			<title>Ghosts of the Ostfront I (1940-1941 CE)</title>
 			<itunes:episode>27</itunes:episode>
 			<pubDate>Wed, 26 Feb 2025 00:00:00 PST</pubDate>
 			<description>The Eastern Front opens. Dan introduces the most savage theater of World War II as Nazi Germany launches Operation Barbarossa — with horrifying consequences.</description>
@@ -260,7 +260,7 @@
 			<enclosure length="52600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/27%20-%20Ghosts%20of%20the%20Ostfront%20I%20%281940-1941%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>28%20-%20Ghosts%20of%20the%20Ostfront%20II%20%281941-1942%20CE%29</title>
+			<title>Ghosts of the Ostfront II (1941-1942 CE)</title>
 			<itunes:episode>28</itunes:episode>
 			<pubDate>Thu, 27 Feb 2025 00:00:00 PST</pubDate>
 			<description>Dan dives deeper into the hellish reality of the Nazi-Soviet conflict, with staggering casualties, cruelty, and ideological warfare unmatched in modern history.</description>
@@ -269,7 +269,7 @@
 			<enclosure length="52700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/28%20-%20Ghosts%20of%20the%20Ostfront%20II%20%281941-1942%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>29%20-%20Ghosts%20of%20the%20Ostfront%20III%20%281942-1943%20CE%29</title>
+			<title>Ghosts of the Ostfront III (1942-1943 CE)</title>
 			<itunes:episode>29</itunes:episode>
 			<pubDate>Fri, 28 Feb 2025 00:00:00 PST</pubDate>
 			<description>The tide begins to turn. Dan examines pivotal battles like Stalingrad and the unimaginable human suffering of both armies and civilians caught in the maelstrom.</description>
@@ -278,7 +278,7 @@
 			<enclosure length="52800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/29%20-%20Ghosts%20of%20the%20Ostfront%20III%20%281942-1943%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>30%20-%20Ghosts%20of%20the%20Ostfront%20IV%20%281943-1945%20CE%29</title>
+			<title>Ghosts of the Ostfront IV (1943-1945 CE)</title>
 			<itunes:episode>30</itunes:episode>
 			<pubDate>Sat, 01 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan concludes the series with the Soviet push westward, the fall of Berlin, and the haunting legacy left behind on the Eastern Front of WWII.</description>
@@ -287,7 +287,7 @@
 			<enclosure length="52900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/30%20-%20Ghosts%20of%20the%20Ostfront%20IV%20%281943-1945%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>31%20-%20Suffer%20the%20Children</title>
+			<title>Suffer the Children</title>
 			<itunes:episode>31</itunes:episode>
 			<pubDate>Sun, 02 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan explores the history of child abuse, neglect, and suffering — not as isolated incidents, but as widespread, institutionalized, and often culturally accepted across time.</description>
@@ -296,7 +296,7 @@
 			<enclosure length="53000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/31%20-%20Suffer%20the%20Children.mp3"/>
 		</item>
 		<item>
-			<title>32%20-%20Globalization%20Unto%20Death%20%281519-1522%20CE%29</title>
+			<title>Globalization Unto Death (1519-1522 CE)</title>
 			<itunes:episode>32</itunes:episode>
 			<pubDate>Mon, 03 Mar 2025 00:00:00 PST</pubDate>
 			<description>The story of Magellan’s circumnavigation — and the unintended consequences of global contact, conquest, and cultural collision — told with sharp historical insight.</description>
@@ -305,7 +305,7 @@
 			<enclosure length="53100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/32%20-%20Globalization%20Unto%20Death%20%281519-1522%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>33%20-%20Old%20School%20Toughness</title>
+			<title>Old School Toughness</title>
 			<itunes:episode>33</itunes:episode>
 			<pubDate>Tue, 04 Mar 2025 00:00:00 PST</pubDate>
 			<description>What did it mean to be “tough” in the ancient world? Dan looks at resilience, endurance, and brutality across different cultures and times.</description>
@@ -314,7 +314,7 @@
 			<enclosure length="53200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/33%20-%20Old%20School%20Toughness.mp3"/>
 		</item>
 		<item>
-			<title>34%20-%20Death%20Throes%20of%20the%20Republic%20I%20%28149-121%20BCE%29</title>
+			<title>Death Throes of the Republic I (149-121 BCE)</title>
 			<itunes:episode>34</itunes:episode>
 			<pubDate>Wed, 05 Mar 2025 00:00:00 PST</pubDate>
 			<description>The Roman Republic begins to unravel. Dan introduces the Gracchi brothers and sets the stage for decades of political upheaval and civil war.</description>
@@ -323,7 +323,7 @@
 			<enclosure length="53300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/34%20-%20Death%20Throes%20of%20the%20Republic%20I%20%28149-121%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>35%20-%20Death%20Throes%20of%20the%20Republic%20II%20%28121-100%20BCE%29</title>
+			<title>Death Throes of the Republic II (121-100 BCE)</title>
 			<itunes:episode>35</itunes:episode>
 			<pubDate>Thu, 06 Mar 2025 00:00:00 PST</pubDate>
 			<description>Marius, land reform, and the use of mob violence dominate this next phase of the Republic’s decay, as Rome’s internal tensions escalate.</description>
@@ -332,7 +332,7 @@
 			<enclosure length="53400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/35%20-%20Death%20Throes%20of%20the%20Republic%20II%20%28121-100%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>36%20-%20Death%20Throes%20of%20the%20Republic%20III%20%2891-86%20BCE%29</title>
+			<title>Death Throes of the Republic III (91-86 BCE)</title>
 			<itunes:episode>36</itunes:episode>
 			<pubDate>Fri, 07 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan covers the Social War and the rise of Sulla, as the Republic faces internal rebellion, class conflict, and the erosion of constitutional norms.</description>
@@ -341,7 +341,7 @@
 			<enclosure length="53500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/36%20-%20Death%20Throes%20of%20the%20Republic%20III%20%2891-86%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>37%20-%20Death%20Throes%20of%20the%20Republic%20IV%20%2886-78%20BCE%29</title>
+			<title>Death Throes of the Republic IV (86-78 BCE)</title>
 			<itunes:episode>37</itunes:episode>
 			<pubDate>Sat, 08 Mar 2025 00:00:00 PST</pubDate>
 			<description>Sulla’s dictatorship and constitutional reforms take center stage. Dan explores how power corrupts and what Rome sacrificed in the name of order.</description>
@@ -350,7 +350,7 @@
 			<enclosure length="53600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/37%20-%20Death%20Throes%20of%20the%20Republic%20IV%20%2886-78%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>38%20-%20Death%20Throes%20of%20the%20Republic%20V%20%2871-62%20BCE%29</title>
+			<title>Death Throes of the Republic V (71-62 BCE)</title>
 			<itunes:episode>38</itunes:episode>
 			<pubDate>Sun, 09 Mar 2025 00:00:00 PST</pubDate>
 			<description>Spartacus revolts, Pompey rises, and the Republic’s elite engage in an arms race of ambition — all while Rome teeters on the edge of collapse.</description>
@@ -359,7 +359,7 @@
 			<enclosure length="53700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/38%20-%20Death%20Throes%20of%20the%20Republic%20V%20%2871-62%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>39%20-%20Death%20Throes%20of%20the%20Republic%20VI%20%2862-44%20BCE%29</title>
+			<title>Death Throes of the Republic VI (62-44 BCE)</title>
 			<itunes:episode>39</itunes:episode>
 			<pubDate>Mon, 10 Mar 2025 00:00:00 PST</pubDate>
 			<description>The finale. Caesar, Cicero, and the last gasp of the Republic — Dan takes us to the Ides of March and the dawn of empire.</description>
@@ -368,7 +368,7 @@
 			<enclosure length="53800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/39%20-%20Death%20Throes%20of%20the%20Republic%20VI%20%2862-44%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>40%20-%20Radical%20Thoughts%20%281950s%20CE%29</title>
+			<title>Radical Thoughts (1950s CE)</title>
 			<itunes:episode>40</itunes:episode>
 			<pubDate>Tue, 11 Mar 2025 00:00:00 PST</pubDate>
 			<description>A look into the Cold War intellectual climate, where new ideas — political, social, and scientific — challenged the foundations of society and policy.</description>
@@ -377,7 +377,7 @@
 			<enclosure length="53900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/40%20-%20Radical%20Thoughts%20%281950s%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>41%20-%20Thors%20Angels%20I%20%28400s-800s%20CE%29</title>
+			<title>Thors Angels I (400s-800s CE)</title>
 			<itunes:episode>41</itunes:episode>
 			<pubDate>Wed, 12 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan explores the chaotic post-Roman world in Europe — where so-called “barbarian” tribes laid the foundations for what would become modern European nations.</description>
@@ -386,7 +386,7 @@
 			<enclosure length="54000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/41%20-%20Thors%20Angels%20I%20%28400s-800s%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>42%20-%20Logical%20Insanity%20I%20%281945%20CE%29</title>
+			<title>Logical Insanity I (1945 CE)</title>
 			<itunes:episode>42</itunes:episode>
 			<pubDate>Thu, 13 Mar 2025 00:00:00 PST</pubDate>
 			<description>The dawn of the nuclear age. Dan reflects on the development, use, and ethical implications of atomic weapons — and how “logic” nearly doomed us.</description>
@@ -395,7 +395,7 @@
 			<enclosure length="54100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/42%20-%20Logical%20Insanity%20I%20%281945%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>43%20-%20Wrath%20of%20the%20Khans%20I%20%281162-1211%20CE%29</title>
+			<title>Wrath of the Khans I (1162-1211 CE)</title>
 			<itunes:episode>43</itunes:episode>
 			<pubDate>Fri, 14 Mar 2025 00:00:00 PST</pubDate>
 			<description>Genghis Khan emerges. Dan begins an epic series chronicling the rise of the Mongol Empire — the most feared and successful land empire in history.</description>
@@ -404,7 +404,7 @@
 			<enclosure length="54200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/43%20-%20Wrath%20of%20the%20Khans%20I%20%281162-1211%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>44%20-%20Wrath%20of%20the%20Khans%20II%20%281215-1221%20CE%29</title>
+			<title>Wrath of the Khans II (1215-1221 CE)</title>
 			<itunes:episode>44</itunes:episode>
 			<pubDate>Sat, 15 Mar 2025 00:00:00 PST</pubDate>
 			<description>The Mongol war machine rolls on. Cities fall, cultures crumble, and the world gets a taste of Mongol warfare at its peak.</description>
@@ -413,7 +413,7 @@
 			<enclosure length="54300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/44%20-%20Wrath%20of%20the%20Khans%20II%20%281215-1221%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>45%20-%20Wrath%20of%20the%20Khans%20III%20%281221-1227%20CE%29</title>
+			<title>Wrath of the Khans III (1221-1227 CE)</title>
 			<itunes:episode>45</itunes:episode>
 			<pubDate>Sun, 16 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan covers Genghis Khan’s final campaigns and the sheer brutality of his conquests, raising the question: was he a military genius or a destroyer of worlds?</description>
@@ -422,7 +422,7 @@
 			<enclosure length="54400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/45%20-%20Wrath%20of%20the%20Khans%20III%20%281221-1227%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>46%20-%20Wrath%20of%20the%20Khans%20IV%20%281227-1242%20CE%29</title>
+			<title>Wrath of the Khans IV (1227-1242 CE)</title>
 			<itunes:episode>46</itunes:episode>
 			<pubDate>Mon, 17 Mar 2025 00:00:00 PST</pubDate>
 			<description>After Genghis Khan’s death, his successors expand the Mongol Empire even further — with devastating effectiveness and unmatched brutality.</description>
@@ -431,7 +431,7 @@
 			<enclosure length="54500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/46%20-%20Wrath%20of%20the%20Khans%20IV%20%281227-1242%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>47%20-%20Wrath%20of%20the%20Khans%20V%20%281242-1294%20CE%29</title>
+			<title>Wrath of the Khans V (1242-1294 CE)</title>
 			<itunes:episode>47</itunes:episode>
 			<pubDate>Tue, 18 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan concludes the series with the peak of Mongol dominance and the long-term effects their conquests had on the civilizations they shattered and shaped.</description>
@@ -440,7 +440,7 @@
 			<enclosure length="54600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/47%20-%20Wrath%20of%20the%20Khans%20V%20%281242-1294%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>48%20-%20Prophets%20of%20Doom%20%281530-1536%20CE%29</title>
+			<title>Prophets of Doom (1530-1536 CE)</title>
 			<itunes:episode>48</itunes:episode>
 			<pubDate>Wed, 19 Mar 2025 00:00:00 PST</pubDate>
 			<description>The Münster Rebellion: a chilling, violent episode in Reformation history. Dan tells the story of religious extremism, fanaticism, and an apocalyptic cult that took over a city.</description>
@@ -449,7 +449,7 @@
 			<enclosure length="54700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/48%20-%20Prophets%20of%20Doom%20%281530-1536%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>49%20-%20American%20Peril%20%281897-1898%20CE%29</title>
+			<title>American Peril (1897-1898 CE)</title>
 			<itunes:episode>49</itunes:episode>
 			<pubDate>Thu, 20 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan revisits the Spanish-American War — a moment that marked the U.S. stepping onto the world stage with imperial ambitions and a taste for power projection.</description>
@@ -458,7 +458,7 @@
 			<enclosure length="54800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/49%20-%20American%20Peril%20%281897-1898%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>50%20-%20Blueprint%20for%20Armageddon%20I%20%281914%20CE%29</title>
+			<title>Blueprint for Armageddon I (1914 CE)</title>
 			<itunes:episode>50</itunes:episode>
 			<pubDate>Fri, 21 Mar 2025 00:00:00 PST</pubDate>
 			<description>The Great War begins. Dan sets the stage for a global catastrophe, detailing the alliances, ambitions, and miscalculations that ignited World War I.</description>
@@ -467,7 +467,7 @@
 			<enclosure length="54900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/50%20-%20Blueprint%20for%20Armageddon%20I%20%281914%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>51%20-%20Blueprint%20for%20Armageddon%20II%20%281914%20CE%29</title>
+			<title>Blueprint for Armageddon II (1914 CE)</title>
 			<itunes:episode>51</itunes:episode>
 			<pubDate>Sat, 22 Mar 2025 00:00:00 PST</pubDate>
 			<description>The war explodes into action. Dan examines the chaos of the early battles, trench warfare, and the stunning human cost as optimism meets brutal reality.</description>
@@ -476,7 +476,7 @@
 			<enclosure length="55000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/51%20-%20Blueprint%20for%20Armageddon%20II%20%281914%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>52%20-%20Blueprint%20for%20Armageddon%20III%20%281914-1915%20CE%29</title>
+			<title>Blueprint for Armageddon III (1914-1915 CE)</title>
 			<itunes:episode>52</itunes:episode>
 			<pubDate>Sun, 23 Mar 2025 00:00:00 PST</pubDate>
 			<description>The Western Front solidifies. Dan explores the horrors of attritional warfare, the use of poison gas, and the grinding futility that defined WWI’s second year.</description>
@@ -485,7 +485,7 @@
 			<enclosure length="55100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/52%20-%20Blueprint%20for%20Armageddon%20III%20%281914-1915%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>53%20-%20Blueprint%20for%20Armageddon%20IV%20%281915-1916%20CE%29</title>
+			<title>Blueprint for Armageddon IV (1915-1916 CE)</title>
 			<itunes:episode>53</itunes:episode>
 			<pubDate>Mon, 24 Mar 2025 00:00:00 PST</pubDate>
 			<description>Verdun. The Somme. The bloodiest battles in human history take center stage as Dan recounts the staggering sacrifice and strategic madness of mid-war Europe.</description>
@@ -494,7 +494,7 @@
 			<enclosure length="55200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/53%20-%20Blueprint%20for%20Armageddon%20IV%20%281915-1916%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>54%20-%20Blueprint%20for%20Armageddon%20V%20%281916-1917%20CE%29</title>
+			<title>Blueprint for Armageddon V (1916-1917 CE)</title>
 			<itunes:episode>54</itunes:episode>
 			<pubDate>Tue, 25 Mar 2025 00:00:00 PST</pubDate>
 			<description>The war expands. Dan covers the Eastern Front, U.S. neutrality, and the shifting strategies that make a bad war worse — on a global scale.</description>
@@ -503,7 +503,7 @@
 			<enclosure length="55300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/54%20-%20Blueprint%20for%20Armageddon%20V%20%281916-1917%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>55%20-%20Blueprint%20for%20Armageddon%20VI%20%281917-1918%20CE%29</title>
+			<title>Blueprint for Armageddon VI (1917-1918 CE)</title>
 			<itunes:episode>55</itunes:episode>
 			<pubDate>Wed, 26 Mar 2025 00:00:00 PST</pubDate>
 			<description>The finale. Revolution in Russia, American entry, and final offensives mark the end of WWI — a conflict that shaped the 20th century like no other.</description>
@@ -512,7 +512,7 @@
 			<enclosure length="55400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/55%20-%20Blueprint%20for%20Armageddon%20VI%20%281917-1918%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>56%20-%20Kings%20of%20Kings%20I%20%28559-530%20BCE%29</title>
+			<title>Kings of Kings I (559-530 BCE)</title>
 			<itunes:episode>56</itunes:episode>
 			<pubDate>Thu, 27 Mar 2025 00:00:00 PST</pubDate>
 			<description>The Persian Empire rises. Dan begins the tale of Cyrus the Great and how the Achaemenids forged one of the most powerful empires the world had ever seen.</description>
@@ -521,7 +521,7 @@
 			<enclosure length="55500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/56%20-%20Kings%20of%20Kings%20I%20%28559-530%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>57%20-%20Kings%20of%20Kings%20II%20%28530-490%20BCE%29</title>
+			<title>Kings of Kings II (530-490 BCE)</title>
 			<itunes:episode>57</itunes:episode>
 			<pubDate>Fri, 28 Mar 2025 00:00:00 PST</pubDate>
 			<description>Expansion and resistance. Dan recounts how Persia grew under Cambyses and Darius, and how it began to collide with the fractious Greek world.</description>
@@ -530,7 +530,7 @@
 			<enclosure length="55600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/57%20-%20Kings%20of%20Kings%20II%20%28530-490%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>58%20-%20Kings%20of%20Kings%20III%20%28486-323%20BCE%29</title>
+			<title>Kings of Kings III (486-323 BCE)</title>
 			<itunes:episode>58</itunes:episode>
 			<pubDate>Sat, 29 Mar 2025 00:00:00 PST</pubDate>
 			<description>The fall. From Xerxes to Alexander, Dan narrates the Persian Empire’s decline and its clash with a new rising power: Macedon.</description>
@@ -539,7 +539,7 @@
 			<enclosure length="55700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/58%20-%20Kings%20of%20Kings%20III%20%28486-323%20BCE%29.mp3"/>
 		</item>
 		<item>
-			<title>59%20-%20The%20Destroyer%20of%20Worlds%20%281945-1962%20CE%29</title>
+			<title>The Destroyer of Worlds (1945-1962 CE)</title>
 			<itunes:episode>59</itunes:episode>
 			<pubDate>Sun, 30 Mar 2025 00:00:00 PST</pubDate>
 			<description>Dan explores the nuclear arms race — from Hiroshima to the Cuban Missile Crisis — and the terrifying logic behind Cold War brinkmanship.</description>
@@ -548,7 +548,7 @@
 			<enclosure length="55800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/59%20-%20The%20Destroyer%20of%20Worlds%20%281945-1962%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>60%20-%20The%20Celtic%20Holocaust</title>
+			<title>The Celtic Holocaust</title>
 			<itunes:episode>60</itunes:episode>
 			<pubDate>Mon, 31 Mar 2025 00:00:00 PST</pubDate>
 			<description>A deep dive into Julius Caesar’s Gallic Wars. Dan questions whether Roman civilization justified the brutality it unleashed on the Celtic tribes of Gaul.</description>
@@ -557,7 +557,7 @@
 			<enclosure length="55900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/60%20-%20The%20Celtic%20Holocaust.mp3"/>
 		</item>
 		<item>
-			<title>61%20-%20Painfotainment%20%2880-1757%20CE%29</title>
+			<title>Painfotainment (80-1757 CE)</title>
 			<itunes:episode>61</itunes:episode>
 			<pubDate>Tue, 01 Apr 2025 00:00:00 PST</pubDate>
 			<description>Dan explores the long and gruesome history of public torture and executions — how societies used spectacle and cruelty as a form of control and entertainment.</description>
@@ -566,7 +566,7 @@
 			<enclosure length="56000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/61%20-%20Painfotainment%20%2880-1757%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>62%20-%20Supernova%20in%20the%20East%20I%20%281800s-1938%20CE%29</title>
+			<title>Supernova in the East I (1800s-1938 CE)</title>
 			<itunes:episode>62</itunes:episode>
 			<pubDate>Wed, 02 Apr 2025 00:00:00 PST</pubDate>
 			<description>Japan rises. Dan begins an epic on the Japanese Empire, covering its modernization, militarization, and the cultural forces driving it toward war.</description>
@@ -575,7 +575,7 @@
 			<enclosure length="56100000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/62%20-%20Supernova%20in%20the%20East%20I%20%281800s-1938%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>63%20-%20Supernova%20in%20the%20East%20II%20%281938-1941%20CE%29</title>
+			<title>Supernova in the East II (1938-1941 CE)</title>
 			<itunes:episode>63</itunes:episode>
 			<pubDate>Thu, 03 Apr 2025 00:00:00 PST</pubDate>
 			<description>The stage is set for total war. Dan discusses Japan’s invasion of China, the Rape of Nanking, and the lead-up to Pearl Harbor.</description>
@@ -584,7 +584,7 @@
 			<enclosure length="56200000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/63%20-%20Supernova%20in%20the%20East%20II%20%281938-1941%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>64%20-%20Supernova%20in%20the%20East%20III%20%281941-1942%20CE%29</title>
+			<title>Supernova in the East III (1941-1942 CE)</title>
 			<itunes:episode>64</itunes:episode>
 			<pubDate>Fri, 04 Apr 2025 00:00:00 PST</pubDate>
 			<description>Japan strikes. From Pearl Harbor to the fall of the Philippines, Dan explores the explosive early phase of the Pacific War.</description>
@@ -593,7 +593,7 @@
 			<enclosure length="56300000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/64%20-%20Supernova%20in%20the%20East%20III%20%281941-1942%20CE%29.mp3"/>
 		</item>
 		<item>
-			<title>65%20-%20Supernova%20in%20the%20East%20IV</title>
+			<title>Supernova in the East IV</title>
 			<itunes:episode>65</itunes:episode>
 			<pubDate>Sat, 05 Apr 2025 00:00:00 PST</pubDate>
 			<description>Dan covers the Midway turning point and the beginnings of Japan’s struggle to sustain its war effort, even as its military proves formidable.</description>
@@ -602,7 +602,7 @@
 			<enclosure length="56400000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/65%20-%20Supernova%20in%20the%20East%20IV.mp3"/>
 		</item>
 		<item>
-			<title>66%20-%20Supernova%20in%20the%20East%20V</title>
+			<title>Supernova in the East V</title>
 			<itunes:episode>66</itunes:episode>
 			<pubDate>Sun, 06 Apr 2025 00:00:00 PST</pubDate>
 			<description>As the U.S. war machine ramps up, Dan covers the brutal island-hopping campaigns, the firebombing of Japanese cities, and the terrifying scale of destruction.</description>
@@ -611,7 +611,7 @@
 			<enclosure length="56500000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/66%20-%20Supernova%20in%20the%20East%20V.mp3"/>
 		</item>
 		<item>
-			<title>67%20-%20Supernova%20in%20the%20East%20VI</title>
+			<title>Supernova in the East VI</title>
 			<itunes:episode>67</itunes:episode>
 			<pubDate>Mon, 07 Apr 2025 00:00:00 PST</pubDate>
 			<description>The endgame. Dan explores the use of atomic bombs, Japan’s surrender, and the deep cultural scars left by the war in the Pacific.</description>
@@ -620,7 +620,7 @@
 			<enclosure length="56600000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/67%20-%20Supernova%20in%20the%20East%20VI.mp3"/>
 		</item>
 		<item>
-			<title>68%20-%20Human%20Resources</title>
+			<title>Human Resources</title>
 			<itunes:episode>68</itunes:episode>
 			<pubDate>Tue, 08 Apr 2025 00:00:00 PST</pubDate>
 			<description>Dan reflects on war through the lens of human cost — manpower, sacrifice, and the cold calculus that turns people into numbers on a battlefield.</description>
@@ -629,7 +629,7 @@
 			<enclosure length="56700000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/68%20-%20Human%20Resources.mp3"/>
 		</item>
 		<item>
-			<title>69%20-%20Twilight%20of%20the%20Aesir</title>
+			<title>Twilight of the Aesir</title>
 			<itunes:episode>69</itunes:episode>
 			<pubDate>Wed, 09 Apr 2025 00:00:00 PST</pubDate>
 			<description>A look at Norse mythology and culture, and how the Vikings viewed fate, glory, and the end of their gods — with parallels to how cultures face their own decline.</description>
@@ -638,7 +638,7 @@
 			<enclosure length="56800000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/69%20-%20Twilight%20of%20the%20Aesir.mp3"/>
 		</item>
 		<item>
-			<title>70%20-%20Twilight%20of%20The%20Aesir%20II</title>
+			<title>Twilight of The Aesir II</title>
 			<itunes:episode>70</itunes:episode>
 			<pubDate>Thu, 10 Apr 2025 00:00:00 PST</pubDate>
 			<description>Dan continues his Norse saga, diving deeper into the myths, realities, and legacy of the Viking world as Ragnarok looms.</description>
@@ -647,7 +647,7 @@
 			<enclosure length="56900000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/70%20-%20Twilight%20of%20The%20Aesir%20II.mp3"/>
 		</item>
 		<item>
-			<title>71%20-%20Mania%20for%20Subjugation</title>
+			<title>Mania for Subjugation</title>
 			<itunes:episode>71</itunes:episode>
 			<pubDate>Fri, 11 Apr 2025 00:00:00 PST</pubDate>
 			<description>Dan dives into the psychology and history of conquest — what drives empires and leaders to dominate others, and what that reveals about human nature.</description>
@@ -656,7 +656,7 @@
 			<enclosure length="57000000" type="audio/mpeg" url="https://archive.org/download/hardcorehistory_20240414/71%20-%20Mania%20for%20Subjugation.mp3"/>
 		</item>
 		<item>
-			<title>72%20-%20Mania%20for%20Subjugation%20II</title>
+			<title>Mania for Subjugation II</title>
 			<itunes:episode>72</itunes:episode>
 			<pubDate>Sat, 12 Apr 2025 00:00:00 PST</pubDate>
 			<description>The sequel expands on humanity’s appetite for domination — from ancient imperialism to modern geopolitics — with chilling implications for the present and future.</description>
