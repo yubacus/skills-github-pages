@@ -1,814 +1,666 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yub's Hardcore History</title>
-    <link>https://google.com</link>
-    <description>For the dawgssss</description>
-    <language>en-us</language>
-    <itunes:author>Yubeezy T</itunes:author>
-    <itunes:summary>For the dawgssss</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>Yubeezy T</itunes:name>
-      <itunes:email>hitek.techie@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/avar/private-dan-carlin-hardcore-history-podcast-feed/master/static/DC_HH_iTunes_Gray_180.jpg"/>
-    <atom:link href="https://google.com" rel="self" type="application/rss+xml"/>
-
-    <item>
-  <title>1 - Alexander vs Hitler</title>
-  <link>https://google.com/episode1</link>
-  <description>Alexander vs Hitler</description>
-  <guid>https://google.com/episode1</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yiOEsD4h6BDnescvmtABhzx6-bXJ10-3" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>2 - Guns and Horses</title>
-  <link>https://google.com/episode2</link>
-  <description>Guns and Horses</description>
-  <guid>https://google.com/episode2</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jbtkwmf5Yt6TmDfjMyqcbE4OM2ndxkuN" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>3 - The Organization of Peace (1920-1946 CE)</title>
-  <link>https://google.com/episode3</link>
-  <description>The Organization of Peace (1920-1946 CE)</description>
-  <guid>https://google.com/episode3</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VcYVLVN-BTwStwhusk5wnanBb14X_wK9" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>4 - Romancing the Tribes (52 BCE-1813 CE)</title>
-  <link>https://google.com/episode4</link>
-  <description>Romancing the Tribes (52 BCE-1813 CE)</description>
-  <guid>https://google.com/episode4</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SW1EjAjzKf2KbuBL3phdKc1Qz5aGe2lW" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>5 - Meandering Through the Cold War (1950s-1960s CE)</title>
-  <link>https://google.com/episode5</link>
-  <description>Meandering Through the Cold War (1950s-1960s CE)</description>
-  <guid>https://google.com/episode5</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=11Nf-2coZ3AtiG-GWvPHfndkMZ40EHicj" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-    
-<item>
-  <title>6 - Shield of the West (559-479 BCE)</title>
-  <link>https://google.com/episode6</link>
-  <description>Shield of the West (559-479 BCE)</description>
-  <guid>https://google.com/episode6</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OQ37dmKocMM9t_yf7NgttTkHpHf_-6-U" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>7 - X-History Files</title>
-  <link>https://google.com/episode7</link>
-  <description>X-History Files</description>
-  <guid>https://google.com/episode7</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ryBqAVAnKhVioTXmhPsbIhovdUp8n6i7" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>8 - Scars of the Great War</title>
-  <link>https://google.com/episode8</link>
-  <description>Scars of the Great War</description>
-  <guid>https://google.com/episode8</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FyRVuMbZdDf587rJv3CXTcI__iOYrbA4" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>9 - Darkness Buries the Bronze Age (1620s-1200s BCE)</title>
-  <link>https://google.com/episode9</link>
-  <description>Darkness Buries the Bronze Age (1620s-1200s BCE)</description>
-  <guid>https://google.com/episode9</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kwYF0iw4ZlbXxf7KHac4kIKYEPpaXnXi" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>10 - The What ifs of 1066 (1066 CE)</title>
-  <link>https://google.com/episode10</link>
-  <description>The What ifs of 1066 (1066 CE)</description>
-  <guid>https://google.com/episode10</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cJ2Qes5MiYZH5Na9Q_HvLW9O1YvV3Tje" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-    
-<item>
-  <title>11 - Thoughts on Churchill (1874-1965 CE)</title>
-  <link>https://google.com/episode11</link>
-  <description>Thoughts on Churchill (1874-1965 CE)</description>
-  <guid>https://google.com/episode11</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=13hAGwkV-Rf2yesVs69TUHDEm57B1FSew" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>12 - Steppe Stories</title>
-  <link>https://google.com/episode12</link>
-  <description>Steppe Stories</description>
-  <guid>https://google.com/episode12</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=18CCtwzKXmGN9PCd_pa0F_5wzvyQoOlV7" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>13 - Bubonic Nukes (1340-1353 CE)</title>
-  <link>https://google.com/episode13</link>
-  <description>Bubonic Nukes (1340-1353 CE)</description>
-  <guid>https://google.com/episode13</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1thfzdvZAnExlmiOzoSzH-iC4T6mYK3q4" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>14 - Macedonian Soap Opera (323-309 BCE)</title>
-  <link>https://google.com/episode14</link>
-  <description>Macedonian Soap Opera (323-309 BCE)</description>
-  <guid>https://google.com/episode14</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xosp0b18rU02oP57NzM08pCjkccRh0Fe" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
-<item>
-  <title>15 - Desperate Times (1928-1929 CE)</title>
-  <link>https://google.com/episode15</link>
-  <description>Desperate Times (1928-1929 CE)</description>
-  <guid>https://google.com/episode15</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fCI9GWugjHsdR6Go8ELWbhNIrWucVYbr" type="audio/mp3" length="0"/>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Yub's Hardcore History</title>
+<link>https://google.com</link>
+<description>For the dawgssss</description>
+<language>en-us</language>
+<itunes:author>Yubeezy T</itunes:author>
+<itunes:summary>For the dawgssss</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
-  
-</item>
-    
+<itunes:owner>
+<itunes:name>Yubeezy T</itunes:name>
+<itunes:email>hitek.techie@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://raw.githubusercontent.com/avar/private-dan-carlin-hardcore-history-podcast-feed/master/static/DC_HH_iTunes_Gray_180.jpg"/>
+<atom:link href="https://google.com" rel="self" type="application/rss+xml"/>
 <item>
-  <title>16 - Nazi Tidbits</title>
-  <link>https://google.com/episode16</link>
-  <description>Nazi Tidbits</description>
-  <guid>https://google.com/episode16</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=16Z0CTUpppzDn5k0OmA7YWC3fVt701gJr" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Alexander vs Hitler</title>
+<link>https://google.com/episode1</link>
+<description>Alexander vs Hitler</description>
+<guid>https://google.com/episode1</guid>
+<pubDate>Fri, 31 Jan 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1yiOEsD4h6BDnescvmtABhzx6-bXJ10-3"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode></item>
 <item>
-  <title>17 - Judgment at Nineveh (883-612 BCE)</title>
-  <link>https://google.com/episode17</link>
-  <description>Judgment at Nineveh (883-612 BCE)</description>
-  <guid>https://google.com/episode17</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sZC61kO4Frue0PLSgzamFC-vnbe_9DvG" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Guns and Horses</title>
+<link>https://google.com/episode2</link>
+<description>Guns and Horses</description>
+<guid>https://google.com/episode2</guid>
+<pubDate>Sat, 01 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1jbtkwmf5Yt6TmDfjMyqcbE4OM2ndxkuN"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>2</itunes:episode></item>
 <item>
-  <title>18 - A Fly on James Burkes Wall</title>
-  <link>https://google.com/episode18</link>
-  <description>A Fly on James Burkes Wall</description>
-  <guid>https://google.com/episode18</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wzrnvGbnwihOPyWr7DlbEmTOYgOQZXus" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>The Organization of Peace (1920-1946 CE)</title>
+<link>https://google.com/episode3</link>
+<description>The Organization of Peace (1920-1946 CE)</description>
+<guid>https://google.com/episode3</guid>
+<pubDate>Sun, 02 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1VcYVLVN-BTwStwhusk5wnanBb14X_wK9"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>3</itunes:episode></item>
 <item>
-  <title>19 - Apache Tears (1870s CE)</title>
-  <link>https://google.com/episode19</link>
-  <description>Apache Tears (1870s CE)</description>
-  <guid>https://google.com/episode19</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vTIk9wmkpxjvPopH14DfW2OuWLhyq9Ab" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Romancing the Tribes (52 BCE-1813 CE)</title>
+<link>https://google.com/episode4</link>
+<description>Romancing the Tribes (52 BCE-1813 CE)</description>
+<guid>https://google.com/episode4</guid>
+<pubDate>Mon, 03 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1SW1EjAjzKf2KbuBL3phdKc1Qz5aGe2lW"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode></item>
 <item>
-  <title>20 - History Under the Influence</title>
-  <link>https://google.com/episode20</link>
-  <description>History Under the Influence</description>
-  <guid>https://google.com/episode20</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qNhC6VrsBx6vv7jO6Y-7LP9lMVcLFOXS" type="audio/mp3" length="0"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Meandering Through the Cold War (1950s-1960s CE)</title>
+<link>https://google.com/episode5</link>
+<description>Meandering Through the Cold War (1950s-1960s CE)</description>
+<guid>https://google.com/episode5</guid>
+<pubDate>Tue, 04 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=11Nf-2coZ3AtiG-GWvPHfndkMZ40EHicj"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>5</itunes:episode></item>
 <item>
-  <title>21 - Punic Nightmares I (288-218 BCE)</title>
-  <link>https://google.com/episode21</link>
-  <description>Punic Nightmares I (288-218 BCE)</description>
-  <guid>https://google.com/episode21</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P_3X4071uTE-XMqWYGaaUi1IbjeGkgqe" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Shield of the West (559-479 BCE)</title>
+<link>https://google.com/episode6</link>
+<description>Shield of the West (559-479 BCE)</description>
+<guid>https://google.com/episode6</guid>
+<pubDate>Wed, 05 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1OQ37dmKocMM9t_yf7NgttTkHpHf_-6-U"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode></item>
 <item>
-  <title>22 - Punic Nightmares II (218-216 BCE)</title>
-  <link>https://google.com/episode22</link>
-  <description>Punic Nightmares II (218-216 BCE)</description>
-  <guid>https://google.com/episode22</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nBF-CvdrAqlHPYCV8NEf3LDqg05wytne" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>X-History Files</title>
+<link>https://google.com/episode7</link>
+<description>X-History Files</description>
+<guid>https://google.com/episode7</guid>
+<pubDate>Thu, 06 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1ryBqAVAnKhVioTXmhPsbIhovdUp8n6i7"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>7</itunes:episode></item>
 <item>
-  <title>23 - Punic Nightmares III (216-146 BCE)</title>
-  <link>https://google.com/episode23</link>
-  <description>Punic Nightmares III (216-146 BCE)</description>
-  <guid>https://google.com/episode23</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A6YRYVit9m7dPHt91_iyGnuRYq2OjeSN" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Scars of the Great War</title>
+<link>https://google.com/episode8</link>
+<description>Scars of the Great War</description>
+<guid>https://google.com/episode8</guid>
+<pubDate>Fri, 07 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1FyRVuMbZdDf587rJv3CXTcI__iOYrbA4"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>8</itunes:episode></item>
 <item>
-  <title>24 - Classical Hanson</title>
-  <link>https://google.com/episode24</link>
-  <description>Classical Hanson</description>
-  <guid>https://google.com/episode24</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zwMaykGaVj41I56Ur2OdZSpwyX9-W8wN" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Darkness Buries the Bronze Age (1620s-1200s BCE)</title>
+<link>https://google.com/episode9</link>
+<description>Darkness Buries the Bronze Age (1620s-1200s BCE)</description>
+<guid>https://google.com/episode9</guid>
+<pubDate>Sat, 08 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1kwYF0iw4ZlbXxf7KHac4kIKYEPpaXnXi"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>9</itunes:episode></item>
 <item>
-  <title>25 - Dyer Outlook</title>
-  <link>https://google.com/episode25</link>
-  <description>Dyer Outlook</description>
-  <guid>https://google.com/episode25</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z9g1Uirk5aKukSYR1F3cUmxuGXpSu1aX" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>The What ifs of 1066 (1066 CE)</title>
+<link>https://google.com/episode10</link>
+<description>The What ifs of 1066 (1066 CE)</description>
+<guid>https://google.com/episode10</guid>
+<pubDate>Sun, 09 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1cJ2Qes5MiYZH5Na9Q_HvLW9O1YvV3Tje"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode></item>
 <item>
-  <title>26 - Addicted to Bondage</title>
-  <link>https://google.com/episode26</link>
-  <description>Addicted to Bondage</description>
-  <guid>https://google.com/episode26</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z-AVbOo-gR2CuhwwoK0OYlZ4PW6HrkAO" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Thoughts on Churchill (1874-1965 CE)</title>
+<link>https://google.com/episode11</link>
+<description>Thoughts on Churchill (1874-1965 CE)</description>
+<guid>https://google.com/episode11</guid>
+<pubDate>Mon, 10 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=13hAGwkV-Rf2yesVs69TUHDEm57B1FSew"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>11</itunes:episode></item>
 <item>
-  <title>27 - Ghosts of the Ostfront I (1940-1941 CE)</title>
-  <link>https://google.com/episode27</link>
-  <description>Ghosts of the Ostfront I (1940-1941 CE)</description>
-  <guid>https://google.com/episode27</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DW43Z7fAcIT-dh9sIDp9LNJcHCy5mIii" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Steppe Stories</title>
+<link>https://google.com/episode12</link>
+<description>Steppe Stories</description>
+<guid>https://google.com/episode12</guid>
+<pubDate>Tue, 11 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=18CCtwzKXmGN9PCd_pa0F_5wzvyQoOlV7"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>12</itunes:episode></item>
 <item>
-  <title>28 - Ghosts of the Ostfront II (1941-1942 CE)</title>
-  <link>https://google.com/episode28</link>
-  <description>Ghosts of the Ostfront II (1941-1942 CE)</description>
-  <guid>https://google.com/episode28</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F9x6Pwpjx-Frxd_kTi3IBLu8NtE_Vzwq" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Bubonic Nukes (1340-1353 CE)</title>
+<link>https://google.com/episode13</link>
+<description>Bubonic Nukes (1340-1353 CE)</description>
+<guid>https://google.com/episode13</guid>
+<pubDate>Wed, 12 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1thfzdvZAnExlmiOzoSzH-iC4T6mYK3q4"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>13</itunes:episode></item>
 <item>
-  <title>29 - Ghosts of the Ostfront III (1942-1943 CE)</title>
-  <link>https://google.com/episode29</link>
-  <description>Ghosts of the Ostfront III (1942-1943 CE)</description>
-  <guid>https://google.com/episode29</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=10khtA0tt5qdRVhvohxa3vjaLtE8Ox4HB" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Macedonian Soap Opera (323-309 BCE)</title>
+<link>https://google.com/episode14</link>
+<description>Macedonian Soap Opera (323-309 BCE)</description>
+<guid>https://google.com/episode14</guid>
+<pubDate>Thu, 13 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1Xosp0b18rU02oP57NzM08pCjkccRh0Fe"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>14</itunes:episode></item>
 <item>
-  <title>30 - Ghosts of the Ostfront IV (1943-1945 CE)</title>
-  <link>https://google.com/episode30</link>
-  <description>Ghosts of the Ostfront IV (1943-1945 CE)</description>
-  <guid>https://google.com/episode30</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SaVhTpD63hgtV0IDoNoODZRiPGRdjsQx" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-
-</item>
-
+<title>Desperate Times (1928-1929 CE)</title>
+<link>https://google.com/episode15</link>
+<description>Desperate Times (1928-1929 CE)</description>
+<guid>https://google.com/episode15</guid>
+<pubDate>Fri, 14 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1fCI9GWugjHsdR6Go8ELWbhNIrWucVYbr"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>15</itunes:episode></item>
 <item>
-  <title>31 - Suffer the Children</title>
-  <link>https://google.com/episode31</link>
-  <description>Suffer the Children</description>
-  <guid>https://google.com/episode31</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LRYANLd1mrCKwukztoY6IQZUTM3WGAI2" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Nazi Tidbits</title>
+<link>https://google.com/episode16</link>
+<description>Nazi Tidbits</description>
+<guid>https://google.com/episode16</guid>
+<pubDate>Sat, 15 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=16Z0CTUpppzDn5k0OmA7YWC3fVt701gJr"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>16</itunes:episode></item>
 <item>
-  <title>32 - Globalization Unto Death (1519-1522 CE)</title>
-  <link>https://google.com/episode32</link>
-  <description>Globalization Unto Death (1519-1522 CE)</description>
-  <guid>https://google.com/episode32</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fTCJyNIxPiIZMx0F6gXIfkJgrgVJcr1c" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Judgment at Nineveh (883-612 BCE)</title>
+<link>https://google.com/episode17</link>
+<description>Judgment at Nineveh (883-612 BCE)</description>
+<guid>https://google.com/episode17</guid>
+<pubDate>Sun, 16 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1sZC61kO4Frue0PLSgzamFC-vnbe_9DvG"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>17</itunes:episode></item>
 <item>
-  <title>33 - Old School Toughness</title>
-  <link>https://google.com/episode33</link>
-  <description>Old School Toughness</description>
-  <guid>https://google.com/episode33</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=19f5PvYXsztqnfPpS1q-6dULJg_cC4nkV" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>A Fly on James Burkes Wall</title>
+<link>https://google.com/episode18</link>
+<description>A Fly on James Burkes Wall</description>
+<guid>https://google.com/episode18</guid>
+<pubDate>Mon, 17 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1wzrnvGbnwihOPyWr7DlbEmTOYgOQZXus"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>18</itunes:episode></item>
 <item>
-  <title>34 - Death Throes of the Republic I (149-121 BCE)</title>
-  <link>https://google.com/episode34</link>
-  <description>Death Throes of the Republic I (149-121 BCE)</description>
-  <guid>https://google.com/episode34</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=12g3V0WXVvg59bp3VPJmFQZhSCERyjYpt" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Apache Tears (1870s CE)</title>
+<link>https://google.com/episode19</link>
+<description>Apache Tears (1870s CE)</description>
+<guid>https://google.com/episode19</guid>
+<pubDate>Tue, 18 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1vTIk9wmkpxjvPopH14DfW2OuWLhyq9Ab"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>19</itunes:episode></item>
 <item>
-  <title>35 - Death Throes of the Republic II (121-100 BCE)</title>
-  <link>https://google.com/episode35</link>
-  <description>Death Throes of the Republic II (121-100 BCE)</description>
-  <guid>https://google.com/episode35</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1INY_LayzPZIKlVdbjh7C_LjPUPpZWdet" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>History Under the Influence</title>
+<link>https://google.com/episode20</link>
+<description>History Under the Influence</description>
+<guid>https://google.com/episode20</guid>
+<pubDate>Wed, 19 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1qNhC6VrsBx6vv7jO6Y-7LP9lMVcLFOXS"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>20</itunes:episode></item>
 <item>
-  <title>36 - Death Throes of the Republic III (91-86 BCE)</title>
-  <link>https://google.com/episode36</link>
-  <description>Death Throes of the Republic III (91-86 BCE)</description>
-  <guid>https://google.com/episode36</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qZzDhHcV-ADNsywQ4rUoCmT7p6vY74N-" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Punic Nightmares I (288-218 BCE)</title>
+<link>https://google.com/episode21</link>
+<description>Punic Nightmares I (288-218 BCE)</description>
+<guid>https://google.com/episode21</guid>
+<pubDate>Thu, 20 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1P_3X4071uTE-XMqWYGaaUi1IbjeGkgqe"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>21</itunes:episode></item>
 <item>
-  <title>37 - Death Throes of the Republic IV (86-78 BCE)</title>
-  <link>https://google.com/episode37</link>
-  <description>Death Throes of the Republic IV (86-78 BCE)</description>
-  <guid>https://google.com/episode37</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=114T3xdL78SpnBAqTOLXHEV3Hnm_uVDEn" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Punic Nightmares II (218-216 BCE)</title>
+<link>https://google.com/episode22</link>
+<description>Punic Nightmares II (218-216 BCE)</description>
+<guid>https://google.com/episode22</guid>
+<pubDate>Fri, 21 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1nBF-CvdrAqlHPYCV8NEf3LDqg05wytne"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>22</itunes:episode></item>
 <item>
-  <title>38 - Death Throes of the Republic V (71-62 BCE)</title>
-  <link>https://google.com/episode38</link>
-  <description>Death Throes of the Republic V (71-62 BCE)</description>
-  <guid>https://google.com/episode38</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=19KaIeRnfZanEdwc2cuBAVcYuKi62z75S" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Punic Nightmares III (216-146 BCE)</title>
+<link>https://google.com/episode23</link>
+<description>Punic Nightmares III (216-146 BCE)</description>
+<guid>https://google.com/episode23</guid>
+<pubDate>Sat, 22 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1A6YRYVit9m7dPHt91_iyGnuRYq2OjeSN"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>23</itunes:episode></item>
 <item>
-  <title>39 - Death Throes of the Republic VI (62-44 BCE)</title>
-  <link>https://google.com/episode39</link>
-  <description>Death Throes of the Republic VI (62-44 BCE)</description>
-  <guid>https://google.com/episode39</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_imHoBng3Y3IGNafnv9FkY11VcYXQvyu" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Classical Hanson</title>
+<link>https://google.com/episode24</link>
+<description>Classical Hanson</description>
+<guid>https://google.com/episode24</guid>
+<pubDate>Sun, 23 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1zwMaykGaVj41I56Ur2OdZSpwyX9-W8wN"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>24</itunes:episode></item>
 <item>
-  <title>40 - Radical Thoughts (1950s CE)</title>
-  <link>https://google.com/episode40</link>
-  <description>Radical Thoughts (1950s CE)</description>
-  <guid>https://google.com/episode40</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mN1DGgeA2yQcJk58K8dTTbOoMAItxqqm" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Dyer Outlook</title>
+<link>https://google.com/episode25</link>
+<description>Dyer Outlook</description>
+<guid>https://google.com/episode25</guid>
+<pubDate>Mon, 24 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1z9g1Uirk5aKukSYR1F3cUmxuGXpSu1aX"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>25</itunes:episode></item>
 <item>
-  <title>41 - Thors Angels I (400s-800s CE)</title>
-  <link>https://google.com/episode41</link>
-  <description>Thors Angels I (400s-800s CE)</description>
-  <guid>https://google.com/episode41</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_33nBvi7T_WXD7PqngxBcMISosYg527x" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Addicted to Bondage</title>
+<link>https://google.com/episode26</link>
+<description>Addicted to Bondage</description>
+<guid>https://google.com/episode26</guid>
+<pubDate>Tue, 25 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1z-AVbOo-gR2CuhwwoK0OYlZ4PW6HrkAO"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>26</itunes:episode></item>
 <item>
-  <title>42 - Logical Insanity I (1945 CE)</title>
-  <link>https://google.com/episode42</link>
-  <description>Logical Insanity I (1945 CE)</description>
-  <guid>https://google.com/episode42</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1O1o45wYRL-0wUGhpZbYjtm772gFYDhqO" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Ghosts of the Ostfront I (1940-1941 CE)</title>
+<link>https://google.com/episode27</link>
+<description>Ghosts of the Ostfront I (1940-1941 CE)</description>
+<guid>https://google.com/episode27</guid>
+<pubDate>Wed, 26 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1DW43Z7fAcIT-dh9sIDp9LNJcHCy5mIii"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>27</itunes:episode></item>
 <item>
-  <title>43 - Wrath of the Khans I (1162-1211 CE)</title>
-  <link>https://google.com/episode43</link>
-  <description>Wrath of the Khans I (1162-1211 CE)</description>
-  <guid>https://google.com/episode43</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AqqAOHUUNtVo6tw9YTdcMNXq_cdr-rf8" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Ghosts of the Ostfront II (1941-1942 CE)</title>
+<link>https://google.com/episode28</link>
+<description>Ghosts of the Ostfront II (1941-1942 CE)</description>
+<guid>https://google.com/episode28</guid>
+<pubDate>Thu, 27 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1F9x6Pwpjx-Frxd_kTi3IBLu8NtE_Vzwq"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>28</itunes:episode></item>
 <item>
-  <title>44 - Wrath of the Khans II (1215-1221 CE)</title>
-  <link>https://google.com/episode44</link>
-  <description>Wrath of the Khans II (1215-1221 CE)</description>
-  <guid>https://google.com/episode44</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FshnCwMus98GVkxdqIr4r-Twk38KHrmW" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Ghosts of the Ostfront III (1942-1943 CE)</title>
+<link>https://google.com/episode29</link>
+<description>Ghosts of the Ostfront III (1942-1943 CE)</description>
+<guid>https://google.com/episode29</guid>
+<pubDate>Fri, 28 Feb 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=10khtA0tt5qdRVhvohxa3vjaLtE8Ox4HB"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>29</itunes:episode></item>
 <item>
-  <title>45 - Wrath of the Khans III (1221-1227 CE)</title>
-  <link>https://google.com/episode45</link>
-  <description>Wrath of the Khans III (1221-1227 CE)</description>
-  <guid>https://google.com/episode45</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y156Le3r2WUcJSSEcHBpiEqDgKEU77X5" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Ghosts of the Ostfront IV (1943-1945 CE)</title>
+<link>https://google.com/episode30</link>
+<description>Ghosts of the Ostfront IV (1943-1945 CE)</description>
+<guid>https://google.com/episode30</guid>
+<pubDate>Sat, 01 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1SaVhTpD63hgtV0IDoNoODZRiPGRdjsQx"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>30</itunes:episode></item>
 <item>
-  <title>46 - Wrath of the Khans IV (1227-1242 CE)</title>
-  <link>https://google.com/episode46</link>
-  <description>Wrath of the Khans IV (1227-1242 CE)</description>
-  <guid>https://google.com/episode46</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YTheTLOIck-KO4FVE_CY-44nm6iXqFTQ" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Suffer the Children</title>
+<link>https://google.com/episode31</link>
+<description>Suffer the Children</description>
+<guid>https://google.com/episode31</guid>
+<pubDate>Sun, 02 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1LRYANLd1mrCKwukztoY6IQZUTM3WGAI2"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>31</itunes:episode></item>
 <item>
-  <title>47 - Wrath of the Khans V (1242-1294 CE)</title>
-  <link>https://google.com/episode47</link>
-  <description>Wrath of the Khans V (1242-1294 CE)</description>
-  <guid>https://google.com/episode47</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xHC0CzsWXP-jK0szR37rV7z_RCdSI9Z_" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Globalization Unto Death (1519-1522 CE)</title>
+<link>https://google.com/episode32</link>
+<description>Globalization Unto Death (1519-1522 CE)</description>
+<guid>https://google.com/episode32</guid>
+<pubDate>Mon, 03 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1fTCJyNIxPiIZMx0F6gXIfkJgrgVJcr1c"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>32</itunes:episode></item>
 <item>
-  <title>48 - Prophets of Doom (1530-1536 CE)</title>
-  <link>https://google.com/episode48</link>
-  <description>Prophets of Doom (1530-1536 CE)</description>
-  <guid>https://google.com/episode48</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HYuTuvkTAY387Yc1QPpmNzRzfjSe437R" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Old School Toughness</title>
+<link>https://google.com/episode33</link>
+<description>Old School Toughness</description>
+<guid>https://google.com/episode33</guid>
+<pubDate>Tue, 04 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=19f5PvYXsztqnfPpS1q-6dULJg_cC4nkV"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>33</itunes:episode></item>
 <item>
-  <title>49 - American Peril (1897-1898 CE)</title>
-  <link>https://google.com/episode49</link>
-  <description>American Peril (1897-1898 CE)</description>
-  <guid>https://google.com/episode49</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=14236slrHTnk8IRy3ZVTkzudb6I6bLNHS" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Death Throes of the Republic I (149-121 BCE)</title>
+<link>https://google.com/episode34</link>
+<description>Death Throes of the Republic I (149-121 BCE)</description>
+<guid>https://google.com/episode34</guid>
+<pubDate>Wed, 05 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=12g3V0WXVvg59bp3VPJmFQZhSCERyjYpt"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>34</itunes:episode></item>
 <item>
-  <title>50 - Blueprint for Armageddon I (1914 CE)</title>
-  <link>https://google.com/episode50</link>
-  <description>Blueprint for Armageddon I (1914 CE)</description>
-  <guid>https://google.com/episode50</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1352lgJnbMfU2ER3cJbyWq70xuDFte6ts" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Death Throes of the Republic II (121-100 BCE)</title>
+<link>https://google.com/episode35</link>
+<description>Death Throes of the Republic II (121-100 BCE)</description>
+<guid>https://google.com/episode35</guid>
+<pubDate>Thu, 06 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1INY_LayzPZIKlVdbjh7C_LjPUPpZWdet"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>35</itunes:episode></item>
 <item>
-  <title>51 - Blueprint for Armageddon II (1914 CE)</title>
-  <link>https://google.com/episode51</link>
-  <description>Blueprint for Armageddon II (1914 CE)</description>
-  <guid>https://google.com/episode51</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=112ZZnJYOIcgvWn8xDQMVTi2zeBQFPngb" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Death Throes of the Republic III (91-86 BCE)</title>
+<link>https://google.com/episode36</link>
+<description>Death Throes of the Republic III (91-86 BCE)</description>
+<guid>https://google.com/episode36</guid>
+<pubDate>Fri, 07 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1qZzDhHcV-ADNsywQ4rUoCmT7p6vY74N-"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>36</itunes:episode></item>
 <item>
-  <title>52 - Blueprint for Armageddon III (1914-1915 CE)</title>
-  <link>https://google.com/episode52</link>
-  <description>Blueprint for Armageddon III (1914-1915 CE)</description>
-  <guid>https://google.com/episode52</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GoM6VdFnCkYDgpSBpW9Rzaj5N049cXUh" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Death Throes of the Republic IV (86-78 BCE)</title>
+<link>https://google.com/episode37</link>
+<description>Death Throes of the Republic IV (86-78 BCE)</description>
+<guid>https://google.com/episode37</guid>
+<pubDate>Sat, 08 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=114T3xdL78SpnBAqTOLXHEV3Hnm_uVDEn"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>37</itunes:episode></item>
 <item>
-  <title>53 - Blueprint for Armageddon IV (1915-1916 CE)</title>
-  <link>https://google.com/episode53</link>
-  <description>Blueprint for Armageddon IV (1915-1916 CE)</description>
-  <guid>https://google.com/episode53</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mhfGU1fOqfwpYWoWHckkItgwiER5hQo_" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Death Throes of the Republic V (71-62 BCE)</title>
+<link>https://google.com/episode38</link>
+<description>Death Throes of the Republic V (71-62 BCE)</description>
+<guid>https://google.com/episode38</guid>
+<pubDate>Sun, 09 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=19KaIeRnfZanEdwc2cuBAVcYuKi62z75S"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>38</itunes:episode></item>
 <item>
-  <title>54 - Blueprint for Armageddon V (1916-1917 CE)</title>
-  <link>https://google.com/episode54</link>
-  <description>Blueprint for Armageddon V (1916-1917 CE)</description>
-  <guid>https://google.com/episode54</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mOy_gmHw9twQ7p49TEaUM88GdcDmisDz" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Death Throes of the Republic VI (62-44 BCE)</title>
+<link>https://google.com/episode39</link>
+<description>Death Throes of the Republic VI (62-44 BCE)</description>
+<guid>https://google.com/episode39</guid>
+<pubDate>Mon, 10 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1_imHoBng3Y3IGNafnv9FkY11VcYXQvyu"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>39</itunes:episode></item>
 <item>
-  <title>55 - Blueprint for Armageddon VI (1917-1918 CE)</title>
-  <link>https://google.com/episode55</link>
-  <description>Blueprint for Armageddon VI (1917-1918 CE)</description>
-  <guid>https://google.com/episode55</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=16mJkBsco9D6n5aYqLPcZAO-Ust9VSIo2" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Radical Thoughts (1950s CE)</title>
+<link>https://google.com/episode40</link>
+<description>Radical Thoughts (1950s CE)</description>
+<guid>https://google.com/episode40</guid>
+<pubDate>Tue, 11 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1mN1DGgeA2yQcJk58K8dTTbOoMAItxqqm"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>40</itunes:episode></item>
 <item>
-  <title>56 - Kings of Kings I (559-530 BCE)</title>
-  <link>https://google.com/episode56</link>
-  <description>Kings of Kings I (559-530 BCE)</description>
-  <guid>https://google.com/episode56</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gI-9HBPP_17dlnePLwv1Myh2pKZKRlQ3" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Thors Angels I (400s-800s CE)</title>
+<link>https://google.com/episode41</link>
+<description>Thors Angels I (400s-800s CE)</description>
+<guid>https://google.com/episode41</guid>
+<pubDate>Wed, 12 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1_33nBvi7T_WXD7PqngxBcMISosYg527x"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>41</itunes:episode></item>
 <item>
-  <title>57 - Kings of Kings II (530-490 BCE)</title>
-  <link>https://google.com/episode57</link>
-  <description>Kings of Kings II (530-490 BCE)</description>
-  <guid>https://google.com/episode57</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=19uXXSj7dqu3xXdyW_fTslUMODT6e2p1B" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Logical Insanity I (1945 CE)</title>
+<link>https://google.com/episode42</link>
+<description>Logical Insanity I (1945 CE)</description>
+<guid>https://google.com/episode42</guid>
+<pubDate>Thu, 13 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1O1o45wYRL-0wUGhpZbYjtm772gFYDhqO"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>42</itunes:episode></item>
 <item>
-  <title>58 - Kings of Kings III (486-323 BCE)</title>
-  <link>https://google.com/episode58</link>
-  <description>Kings of Kings III (486-323 BCE)</description>
-  <guid>https://google.com/episode58</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iauoif6neuENdPhYVIxVHR0zrudPHl_8" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Wrath of the Khans I (1162-1211 CE)</title>
+<link>https://google.com/episode43</link>
+<description>Wrath of the Khans I (1162-1211 CE)</description>
+<guid>https://google.com/episode43</guid>
+<pubDate>Fri, 14 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1AqqAOHUUNtVo6tw9YTdcMNXq_cdr-rf8"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>43</itunes:episode></item>
 <item>
-  <title>59 - The Destroyer of Worlds (1945-1962 CE)</title>
-  <link>https://google.com/episode59</link>
-  <description>The Destroyer of Worlds (1945-1962 CE)</description>
-  <guid>https://google.com/episode59</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OvCCdSUCqV_XY_ZtawREL1Un5J_S7amV" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Wrath of the Khans II (1215-1221 CE)</title>
+<link>https://google.com/episode44</link>
+<description>Wrath of the Khans II (1215-1221 CE)</description>
+<guid>https://google.com/episode44</guid>
+<pubDate>Sat, 15 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1FshnCwMus98GVkxdqIr4r-Twk38KHrmW"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>44</itunes:episode></item>
 <item>
-  <title>60 - The Celtic Holocaust</title>
-  <link>https://google.com/episode60</link>
-  <description>The Celtic Holocaust</description>
-  <guid>https://google.com/episode60</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eKDoYgZygnn_SvxDSwFDBTCHI5lbA4Z4" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Wrath of the Khans III (1221-1227 CE)</title>
+<link>https://google.com/episode45</link>
+<description>Wrath of the Khans III (1221-1227 CE)</description>
+<guid>https://google.com/episode45</guid>
+<pubDate>Sun, 16 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1Y156Le3r2WUcJSSEcHBpiEqDgKEU77X5"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>45</itunes:episode></item>
 <item>
-  <title>61 - Painfotainment (80-1757 CE)</title>
-  <link>https://google.com/episode61</link>
-  <description>Painfotainment (80-1757 CE)</description>
-  <guid>https://google.com/episode61</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DUIyoTYhvfXbFPtSYd6JTxodD30os_MZ" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Wrath of the Khans IV (1227-1242 CE)</title>
+<link>https://google.com/episode46</link>
+<description>Wrath of the Khans IV (1227-1242 CE)</description>
+<guid>https://google.com/episode46</guid>
+<pubDate>Mon, 17 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1YTheTLOIck-KO4FVE_CY-44nm6iXqFTQ"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>46</itunes:episode></item>
 <item>
-  <title>62 - Supernova in the East I (1800s-1938 CE)</title>
-  <link>https://google.com/episode62</link>
-  <description>Supernova in the East I (1800s-1938 CE)</description>
-  <guid>https://google.com/episode62</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IC4sG79QqrBhzbJZys5PqO0yjIhf7O_q" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Wrath of the Khans V (1242-1294 CE)</title>
+<link>https://google.com/episode47</link>
+<description>Wrath of the Khans V (1242-1294 CE)</description>
+<guid>https://google.com/episode47</guid>
+<pubDate>Tue, 18 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1xHC0CzsWXP-jK0szR37rV7z_RCdSI9Z_"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>47</itunes:episode></item>
 <item>
-  <title>63 - Supernova in the East II (1938-1941 CE)</title>
-  <link>https://google.com/episode63</link>
-  <description>Supernova in the East II (1938-1941 CE)</description>
-  <guid>https://google.com/episode63</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wyZiYHUhkVV6ZWIjiWiV9U--TDj9c9_T" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Prophets of Doom (1530-1536 CE)</title>
+<link>https://google.com/episode48</link>
+<description>Prophets of Doom (1530-1536 CE)</description>
+<guid>https://google.com/episode48</guid>
+<pubDate>Wed, 19 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1HYuTuvkTAY387Yc1QPpmNzRzfjSe437R"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>48</itunes:episode></item>
 <item>
-  <title>64 - Supernova in the East III (1941-1942 CE)</title>
-  <link>https://google.com/episode64</link>
-  <description>Supernova in the East III (1941-1942 CE)</description>
-  <guid>https://google.com/episode64</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IklEDwMpHgDIvvoh1RJM1E_8r2eQUJO4" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>American Peril (1897-1898 CE)</title>
+<link>https://google.com/episode49</link>
+<description>American Peril (1897-1898 CE)</description>
+<guid>https://google.com/episode49</guid>
+<pubDate>Thu, 20 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=14236slrHTnk8IRy3ZVTkzudb6I6bLNHS"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>49</itunes:episode></item>
 <item>
-  <title>65 - Supernova in the East IV</title>
-  <link>https://google.com/episode65</link>
-  <description>Supernova in the East IV</description>
-  <guid>https://google.com/episode65</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qKUpJlE2N4yA5_Lz85aVfFwuO3xOvmVh" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Blueprint for Armageddon I (1914 CE)</title>
+<link>https://google.com/episode50</link>
+<description>Blueprint for Armageddon I (1914 CE)</description>
+<guid>https://google.com/episode50</guid>
+<pubDate>Fri, 21 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1352lgJnbMfU2ER3cJbyWq70xuDFte6ts"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>50</itunes:episode></item>
 <item>
-  <title>66 - Supernova in the East V</title>
-  <link>https://google.com/episode66</link>
-  <description>Supernova in the East V</description>
-  <guid>https://google.com/episode66</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sBXdc0V7Gc__ZGRY852Lng8xiJ8WW-M4" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Blueprint for Armageddon II (1914 CE)</title>
+<link>https://google.com/episode51</link>
+<description>Blueprint for Armageddon II (1914 CE)</description>
+<guid>https://google.com/episode51</guid>
+<pubDate>Sat, 22 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=112ZZnJYOIcgvWn8xDQMVTi2zeBQFPngb"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>51</itunes:episode></item>
 <item>
-  <title>67 - Supernova in the East VI</title>
-  <link>https://google.com/episode67</link>
-  <description>Supernova in the East VI</description>
-  <guid>https://google.com/episode67</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OhqNxdt7jgWR9bMgdRvGdMtA6u3jqQCA" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Blueprint for Armageddon III (1914-1915 CE)</title>
+<link>https://google.com/episode52</link>
+<description>Blueprint for Armageddon III (1914-1915 CE)</description>
+<guid>https://google.com/episode52</guid>
+<pubDate>Sun, 23 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1GoM6VdFnCkYDgpSBpW9Rzaj5N049cXUh"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>52</itunes:episode></item>
 <item>
-  <title>68 - Human Resources</title>
-  <link>https://google.com/episode68</link>
-  <description>Human Resources</description>
-  <guid>https://google.com/episode68</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JlG2mxaJQxOh7wjbstJF6FwSflsc2E50" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Blueprint for Armageddon IV (1915-1916 CE)</title>
+<link>https://google.com/episode53</link>
+<description>Blueprint for Armageddon IV (1915-1916 CE)</description>
+<guid>https://google.com/episode53</guid>
+<pubDate>Mon, 24 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1mhfGU1fOqfwpYWoWHckkItgwiER5hQo_"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>53</itunes:episode></item>
 <item>
-  <title>69 - Twilight of the Aesir</title>
-  <link>https://google.com/episode69</link>
-  <description>Twilight of the Aesir</description>
-  <guid>https://google.com/episode69</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ry0HCzDgcxlZUFSn-O3NXy5BGXgOnHXk" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Blueprint for Armageddon V (1916-1917 CE)</title>
+<link>https://google.com/episode54</link>
+<description>Blueprint for Armageddon V (1916-1917 CE)</description>
+<guid>https://google.com/episode54</guid>
+<pubDate>Tue, 25 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1mOy_gmHw9twQ7p49TEaUM88GdcDmisDz"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>54</itunes:episode></item>
 <item>
-  <title>70 - Twilight of The Aesir II</title>
-  <link>https://google.com/episode70</link>
-  <description>Twilight of The Aesir II</description>
-  <guid>https://google.com/episode70</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eMD-ubDaXOU2Ja-vxgkCFGVMaobW5KrA" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Blueprint for Armageddon VI (1917-1918 CE)</title>
+<link>https://google.com/episode55</link>
+<description>Blueprint for Armageddon VI (1917-1918 CE)</description>
+<guid>https://google.com/episode55</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=16mJkBsco9D6n5aYqLPcZAO-Ust9VSIo2"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>55</itunes:episode></item>
 <item>
-  <title>71 - Mania for Subjugation</title>
-  <link>https://google.com/episode71</link>
-  <description>Mania for Subjugation</description>
-  <guid>https://google.com/episode71</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zyucuLnXshVaibooOroo0AfrUv9qUVWd" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-
+<title>Kings of Kings I (559-530 BCE)</title>
+<link>https://google.com/episode56</link>
+<description>Kings of Kings I (559-530 BCE)</description>
+<guid>https://google.com/episode56</guid>
+<pubDate>Thu, 27 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1gI-9HBPP_17dlnePLwv1Myh2pKZKRlQ3"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>56</itunes:episode></item>
 <item>
-  <title>72 - Mania for Subjugation II</title>
-  <link>https://google.com/episode72</link>
-  <description>Mania for Subjugation II</description>
-  <guid>https://google.com/episode72</guid>
-  <pubDate>Sun, 13 Apr 2025 00:00:00 PST</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oLcovzKdr_wQFfJevqvIFdKoGxlP1grt" length="0" type="audio/mp3"/>
-  <itunes:explicit>false</itunes:explicit>
-  
-</item>
-  
-  </channel>
+<title>Kings of Kings II (530-490 BCE)</title>
+<link>https://google.com/episode57</link>
+<description>Kings of Kings II (530-490 BCE)</description>
+<guid>https://google.com/episode57</guid>
+<pubDate>Fri, 28 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=19uXXSj7dqu3xXdyW_fTslUMODT6e2p1B"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>57</itunes:episode></item>
+<item>
+<title>Kings of Kings III (486-323 BCE)</title>
+<link>https://google.com/episode58</link>
+<description>Kings of Kings III (486-323 BCE)</description>
+<guid>https://google.com/episode58</guid>
+<pubDate>Sat, 29 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1iauoif6neuENdPhYVIxVHR0zrudPHl_8"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>58</itunes:episode></item>
+<item>
+<title>The Destroyer of Worlds (1945-1962 CE)</title>
+<link>https://google.com/episode59</link>
+<description>The Destroyer of Worlds (1945-1962 CE)</description>
+<guid>https://google.com/episode59</guid>
+<pubDate>Sun, 30 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1OvCCdSUCqV_XY_ZtawREL1Un5J_S7amV"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>59</itunes:episode></item>
+<item>
+<title>The Celtic Holocaust</title>
+<link>https://google.com/episode60</link>
+<description>The Celtic Holocaust</description>
+<guid>https://google.com/episode60</guid>
+<pubDate>Mon, 31 Mar 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1eKDoYgZygnn_SvxDSwFDBTCHI5lbA4Z4"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>60</itunes:episode></item>
+<item>
+<title>Painfotainment (80-1757 CE)</title>
+<link>https://google.com/episode61</link>
+<description>Painfotainment (80-1757 CE)</description>
+<guid>https://google.com/episode61</guid>
+<pubDate>Tue, 01 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1DUIyoTYhvfXbFPtSYd6JTxodD30os_MZ"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>61</itunes:episode></item>
+<item>
+<title>Supernova in the East I (1800s-1938 CE)</title>
+<link>https://google.com/episode62</link>
+<description>Supernova in the East I (1800s-1938 CE)</description>
+<guid>https://google.com/episode62</guid>
+<pubDate>Wed, 02 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1IC4sG79QqrBhzbJZys5PqO0yjIhf7O_q"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>62</itunes:episode></item>
+<item>
+<title>Supernova in the East II (1938-1941 CE)</title>
+<link>https://google.com/episode63</link>
+<description>Supernova in the East II (1938-1941 CE)</description>
+<guid>https://google.com/episode63</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1wyZiYHUhkVV6ZWIjiWiV9U--TDj9c9_T"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>63</itunes:episode></item>
+<item>
+<title>Supernova in the East III (1941-1942 CE)</title>
+<link>https://google.com/episode64</link>
+<description>Supernova in the East III (1941-1942 CE)</description>
+<guid>https://google.com/episode64</guid>
+<pubDate>Fri, 04 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1IklEDwMpHgDIvvoh1RJM1E_8r2eQUJO4"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>64</itunes:episode></item>
+<item>
+<title>Supernova in the East IV</title>
+<link>https://google.com/episode65</link>
+<description>Supernova in the East IV</description>
+<guid>https://google.com/episode65</guid>
+<pubDate>Sat, 05 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1qKUpJlE2N4yA5_Lz85aVfFwuO3xOvmVh"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>65</itunes:episode></item>
+<item>
+<title>Supernova in the East V</title>
+<link>https://google.com/episode66</link>
+<description>Supernova in the East V</description>
+<guid>https://google.com/episode66</guid>
+<pubDate>Sun, 06 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1sBXdc0V7Gc__ZGRY852Lng8xiJ8WW-M4"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>66</itunes:episode></item>
+<item>
+<title>Supernova in the East VI</title>
+<link>https://google.com/episode67</link>
+<description>Supernova in the East VI</description>
+<guid>https://google.com/episode67</guid>
+<pubDate>Mon, 07 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1OhqNxdt7jgWR9bMgdRvGdMtA6u3jqQCA"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>67</itunes:episode></item>
+<item>
+<title>Human Resources</title>
+<link>https://google.com/episode68</link>
+<description>Human Resources</description>
+<guid>https://google.com/episode68</guid>
+<pubDate>Tue, 08 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1JlG2mxaJQxOh7wjbstJF6FwSflsc2E50"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>68</itunes:episode></item>
+<item>
+<title>Twilight of the Aesir</title>
+<link>https://google.com/episode69</link>
+<description>Twilight of the Aesir</description>
+<guid>https://google.com/episode69</guid>
+<pubDate>Wed, 09 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1Ry0HCzDgcxlZUFSn-O3NXy5BGXgOnHXk"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>69</itunes:episode></item>
+<item>
+<title>Twilight of The Aesir II</title>
+<link>https://google.com/episode70</link>
+<description>Twilight of The Aesir II</description>
+<guid>https://google.com/episode70</guid>
+<pubDate>Thu, 10 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1eMD-ubDaXOU2Ja-vxgkCFGVMaobW5KrA"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>70</itunes:episode></item>
+<item>
+<title>Mania for Subjugation</title>
+<link>https://google.com/episode71</link>
+<description>Mania for Subjugation</description>
+<guid>https://google.com/episode71</guid>
+<pubDate>Fri, 11 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1zyucuLnXshVaibooOroo0AfrUv9qUVWd"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>71</itunes:episode></item>
+<item>
+<title>Mania for Subjugation II</title>
+<link>https://google.com/episode72</link>
+<description>Mania for Subjugation II</description>
+<guid>https://google.com/episode72</guid>
+<pubDate>Sat, 12 Apr 2025 00:00:00 PST</pubDate>
+<enclosure length="0" type="audio/mp3" url="https://drive.google.com/uc?export=download&amp;id=1oLcovzKdr_wQFfJevqvIFdKoGxlP1grt"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>72</itunes:episode></item>
+</channel>
 </rss>
