@@ -15,7 +15,7 @@
 			<itunes:email>hitek.techie@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://raw.githubusercontent.com/avar/private-dan-carlin-hardcore-history-podcast-feed/master/static/DC_HH_iTunes_Gray_180.jpg"/>
-		<atom:link href="https://google.com" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://yubacus.github.io/skills-github-pages/feed.xml" rel="self" type="application/rss+xml"/>
 		<item>
 			<title>01%20-%20Alexander%20vs%20Hitler</title>
 			<itunes:episode>1</itunes:episode>
